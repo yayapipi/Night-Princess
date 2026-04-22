@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: 7736a827cd8bf0345a09fad2230ce0e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -244596856546610486
+    second: Basic Buttons 1.0_0
+  - first:
+      213: 7778155733060069896
+    second: Basic Buttons 1.0_1
+  - first:
+      213: -3598695156353867046
+    second: Basic Buttons 1.0_2
+  - first:
+      213: -3990211439798157715
+    second: Basic Buttons 1.0_3
+  - first:
+      213: 7347778935888884128
+    second: Basic Buttons 1.0_4
+  - first:
+      213: 4406851445504601438
+    second: Basic Buttons 1.0_5
+  - first:
+      213: -3678258809056101376
+    second: Basic Buttons 1.0_6
+  - first:
+      213: 1990519782474058878
+    second: Basic Buttons 1.0_7
+  - first:
+      213: 6492764740536810316
+    second: Basic Buttons 1.0_8
+  - first:
+      213: -4408852304112681942
+    second: Basic Buttons 1.0_9
+  - first:
+      213: 4285213332816189759
+    second: Basic Buttons 1.0_10
+  - first:
+      213: -6319993252788141580
+    second: Basic Buttons 1.0_11
+  - first:
+      213: -5569313984225017349
+    second: Basic Buttons 1.0_12
+  - first:
+      213: -8086814327033041187
+    second: Basic Buttons 1.0_13
+  - first:
+      213: -8729194421230034608
+    second: Basic Buttons 1.0_14
+  - first:
+      213: -8392635673029222129
+    second: Basic Buttons 1.0_15
+  - first:
+      213: -3960110828613598405
+    second: Basic Buttons 1.0_16
+  - first:
+      213: 4774348537972881299
+    second: Basic Buttons 1.0_17
+  - first:
+      213: -8896996611179129518
+    second: Basic Buttons 1.0_18
+  - first:
+      213: -1738038853607184729
+    second: Basic Buttons 1.0_19
+  - first:
+      213: -7425867144470292847
+    second: Basic Buttons 1.0_20
+  - first:
+      213: -5356665905668219341
+    second: Basic Buttons 1.0_21
+  - first:
+      213: 6045678722629976614
+    second: Basic Buttons 1.0_22
+  - first:
+      213: 4959269310969693264
+    second: Basic Buttons 1.0_23
+  - first:
+      213: -5351245721257818677
+    second: Basic Buttons 1.0_24
+  - first:
+      213: 2036376539009116568
+    second: Basic Buttons 1.0_25
+  - first:
+      213: 8525143154551713957
+    second: Basic Buttons 1.0_26
+  - first:
+      213: 260987473379222628
+    second: Basic Buttons 1.0_27
+  - first:
+      213: 5819533302485287160
+    second: Basic Buttons 1.0_28
+  - first:
+      213: -8219109640445022599
+    second: Basic Buttons 1.0_29
+  - first:
+      213: 1890583222617077276
+    second: Basic Buttons 1.0_30
+  - first:
+      213: 9026280670340354752
+    second: Basic Buttons 1.0_31
+  - first:
+      213: 4999502202155163222
+    second: Basic Buttons 1.0_32
+  - first:
+      213: 1214996242943748795
+    second: Basic Buttons 1.0_33
+  - first:
+      213: -676501371119601218
+    second: Basic Buttons 1.0_34
+  - first:
+      213: 5197065591480758374
+    second: Basic Buttons 1.0_35
+  - first:
+      213: 5388202841729790634
+    second: Basic Buttons 1.0_36
+  - first:
+      213: 8715457100684018976
+    second: Basic Buttons 1.0_37
+  - first:
+      213: -6360284409369762021
+    second: Basic Buttons 1.0_38
+  - first:
+      213: -494771697606710799
+    second: Basic Buttons 1.0_39
+  - first:
+      213: -2042039431262243577
+    second: Basic Buttons 1.0_40
+  - first:
+      213: 179785300552597036
+    second: Basic Buttons 1.0_41
+  - first:
+      213: -4783399376925291259
+    second: Basic Buttons 1.0_42
+  - first:
+      213: -3271720298965355703
+    second: Basic Buttons 1.0_43
+  - first:
+      213: 6873481403969812980
+    second: Basic Buttons 1.0_44
+  - first:
+      213: -3760316149191985170
+    second: Basic Buttons 1.0_45
+  - first:
+      213: -6979277973456197638
+    second: Basic Buttons 1.0_46
+  - first:
+      213: -8112953747203439710
+    second: Basic Buttons 1.0_47
+  - first:
+      213: 555141913120311546
+    second: Basic Buttons 1.0_48
+  - first:
+      213: 7005608930850832382
+    second: Basic Buttons 1.0_49
+  - first:
+      213: -4511424939574943273
+    second: Basic Buttons 1.0_50
+  - first:
+      213: 2016434342515316105
+    second: Basic Buttons 1.0_51
+  - first:
+      213: -8562389921247012945
+    second: Basic Buttons 1.0_52
+  - first:
+      213: -7341410633139282641
+    second: Basic Buttons 1.0_53
+  - first:
+      213: 906691337628152834
+    second: Basic Buttons 1.0_54
+  - first:
+      213: -8754147033003898450
+    second: Basic Buttons 1.0_55
+  - first:
+      213: 8437408824294300745
+    second: Basic Buttons 1.0_56
+  - first:
+      213: 1490260218572996610
+    second: Basic Buttons 1.0_57
+  - first:
+      213: 2921719450087849070
+    second: Basic Buttons 1.0_58
+  - first:
+      213: -8800707929699175310
+    second: Basic Buttons 1.0_59
+  - first:
+      213: -736020107580770245
+    second: Basic Buttons 1.0_60
+  - first:
+      213: 4816813677127906876
+    second: Basic Buttons 1.0_61
+  - first:
+      213: -3573069069466327621
+    second: Basic Buttons 1.0_62
+  - first:
+      213: 3963584814759223451
+    second: Basic Buttons 1.0_63
+  - first:
+      213: 7131731751744154036
+    second: Basic Buttons 1.0_64
+  - first:
+      213: 2888354676663404940
+    second: Basic Buttons 1.0_65
+  - first:
+      213: 3115663515080185125
+    second: Basic Buttons 1.0_66
+  - first:
+      213: 4074332054417649152
+    second: Basic Buttons 1.0_67
+  - first:
+      213: -2397810546718236322
+    second: Basic Buttons 1.0_68
+  - first:
+      213: 8673768057781227798
+    second: Basic Buttons 1.0_69
+  - first:
+      213: 5414638404574218517
+    second: Basic Buttons 1.0_70
+  - first:
+      213: -5876217696532420663
+    second: Basic Buttons 1.0_71
+  - first:
+      213: 1353977262070015792
+    second: Basic Buttons 1.0_72
+  - first:
+      213: -251135883993516323
+    second: Basic Buttons 1.0_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 179
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2bc5474740b9cf0800000000000000
+      internalID: -244596856546610486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 179
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aa6b4cd6f81fb60800000000000000
+      internalID: 7778155733060069896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 179
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2eb9e62ddde0ec0800000000000000
+      internalID: -3598695156353867046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 179
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e712826dbef98c0800000000000000
+      internalID: -3990211439798157715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 179
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a131c1130e88f560800000000000000
+      internalID: 7347778935888884128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 179
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5de73b8a08482d30800000000000000
+      internalID: 4406851445504601438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 179
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c7246f91334fcc0800000000000000
+      internalID: -3678258809056101376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 179
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c01c8223fbf9b10800000000000000
+      internalID: 1990519782474058878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 179
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb0e1a12fea1a50800000000000000
+      internalID: 6492764740536810316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 179
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c7332403c90d2c0800000000000000
+      internalID: -4408852304112681942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 147
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39d64972d2287b30800000000000000
+      internalID: 4285213332816189759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 147
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f182b01f9fda48a0800000000000000
+      internalID: -6319993252788141580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf107a75072d5b2b0800000000000000
+      internalID: -5569313984225017349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddee7a0273dd5cf80800000000000000
+      internalID: -8086814327033041187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05123435cebabd680800000000000000
+      internalID: -8729194421230034608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0162db425e578b80800000000000000
+      internalID: -8392635673029222129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b330f45de2cda09c0800000000000000
+      internalID: -3960110828613598405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39777cf13b4e14240800000000000000
+      internalID: 4774348537972881299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_18
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25550de68b4878480800000000000000
+      internalID: -8896996611179129518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6aae40fde31e7e0800000000000000
+      internalID: -1738038853607184729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969a901d2502f890800000000000000
+      internalID: -7425867144470292847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e13385dbc49a5b0800000000000000
+      internalID: -5356665905668219341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 115
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224f7054c096e350800000000000000
+      internalID: 6045678722629976614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 115
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05448d9b92dd2d440800000000000000
+      internalID: 4959269310969693264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5499e5e5e8cb5b0800000000000000
+      internalID: -5351245721257818677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899e39c4ca9a24c10800000000000000
+      internalID: 2036376539009116568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0786ae7846f4670800000000000000
+      internalID: 8525143154551713957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464689969b63f9300800000000000000
+      internalID: 260987473379222628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_28
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0013594b223c050800000000000000
+      internalID: 5819533302485287160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e2947245bdfed80800000000000000
+      internalID: -8219109640445022599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16776a9c63bc3a10800000000000000
+      internalID: 1890583222617077276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 81
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29c96427ac34d70800000000000000
+      internalID: 9026280670340354752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65edd3da3ccc16540800000000000000
+      internalID: 4999502202155163222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa81845a88cd010800000000000000
+      internalID: 1214996242943748795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9f95456959c96f0800000000000000
+      internalID: -676501371119601218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660bd96ce9faf1840800000000000000
+      internalID: 5197065591480758374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2fd07cfedb6ca40800000000000000
+      internalID: 5388202841729790634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 66
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0254d6d7e0683f870800000000000000
+      internalID: 8715457100684018976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 66
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b176f05270bbbb7a0800000000000000
+      internalID: -6360284409369762021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 66
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92c3f23c73229f0800000000000000
+      internalID: -494771697606710799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 66
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705f54ad4f739a3e0800000000000000
+      internalID: -2042039431262243577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e364f37c9be7200800000000000000
+      internalID: 179785300552597036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_42
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 66
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0b873c93fd9db0800000000000000
+      internalID: -4783399376925291259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 66
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9433cbfe8b38892d0800000000000000
+      internalID: -3271720298965355703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9bfdd6be2836f50800000000000000
+      internalID: 6873481403969812980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee73f34a26ca0dbc0800000000000000
+      internalID: -3760316149191985170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76f6339af942f90800000000000000
+      internalID: -6979277973456197638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 66
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3c3ca1d8ff86f80800000000000000
+      internalID: -8112953747203439710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af88773f0a244b700800000000000000
+      internalID: 555141913120311546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efffaae843ce83160800000000000000
+      internalID: 7005608930850832382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d12cc58be23461c0800000000000000
+      internalID: -4511424939574943273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985168ad950dbfb10800000000000000
+      internalID: 2016434342515316105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7dfab6bb74c2980800000000000000
+      internalID: -8562389921247012945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d1575fce11e1a90800000000000000
+      internalID: -7341410633139282641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ff3cb7f6359c00800000000000000
+      internalID: 906691337628152834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9434aa7a5038680800000000000000
+      internalID: -8754147033003898450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 34
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cdec45f92b71570800000000000000
+      internalID: 8437408824294300745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 34
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20080f6e5c77ea410800000000000000
+      internalID: 1490260218572996610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cf5d32c580c8820800000000000000
+      internalID: 2921719450087849070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_59
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274315e14ca9dd580800000000000000
+      internalID: -8800707929699175310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_60
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b387a1c9c9129c5f0800000000000000
+      internalID: -736020107580770245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_61
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36b37ec482c8d240800000000000000
+      internalID: 4816813677127906876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5268cbc98e96ec0800000000000000
+      internalID: -3573069069466327621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_63
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b902bd8936b710730800000000000000
+      internalID: 3963584814759223451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9a5102e3009f260800000000000000
+      internalID: 7131731751744154036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c894cd7764f751820800000000000000
+      internalID: 2888354676663404940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525dfff957f0d3b20800000000000000
+      internalID: 3115663515080185125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2d80ba6fea8830800000000000000
+      internalID: 4074332054417649152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_68
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51ac2c030449bed0800000000000000
+      internalID: -2397810546718236322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111e2cc71a6f5870800000000000000
+      internalID: 8673768057781227798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_70
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51985d3e0f8a42b40800000000000000
+      internalID: 5414638404574218517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_71
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72257732b737ea0800000000000000
+      internalID: -5876217696532420663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_72
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037a3ab652b4ac210800000000000000
+      internalID: 1353977262070015792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Buttons 1.0_73
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6763c7e39c38cf0800000000000000
+      internalID: -251135883993516323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Basic Buttons 1.0_0: -244596856546610486
+      Basic Buttons 1.0_1: 7778155733060069896
+      Basic Buttons 1.0_10: 4285213332816189759
+      Basic Buttons 1.0_11: -6319993252788141580
+      Basic Buttons 1.0_12: -5569313984225017349
+      Basic Buttons 1.0_13: -8086814327033041187
+      Basic Buttons 1.0_14: -8729194421230034608
+      Basic Buttons 1.0_15: -8392635673029222129
+      Basic Buttons 1.0_16: -3960110828613598405
+      Basic Buttons 1.0_17: 4774348537972881299
+      Basic Buttons 1.0_18: -8896996611179129518
+      Basic Buttons 1.0_19: -1738038853607184729
+      Basic Buttons 1.0_2: -3598695156353867046
+      Basic Buttons 1.0_20: -7425867144470292847
+      Basic Buttons 1.0_21: -5356665905668219341
+      Basic Buttons 1.0_22: 6045678722629976614
+      Basic Buttons 1.0_23: 4959269310969693264
+      Basic Buttons 1.0_24: -5351245721257818677
+      Basic Buttons 1.0_25: 2036376539009116568
+      Basic Buttons 1.0_26: 8525143154551713957
+      Basic Buttons 1.0_27: 260987473379222628
+      Basic Buttons 1.0_28: 5819533302485287160
+      Basic Buttons 1.0_29: -8219109640445022599
+      Basic Buttons 1.0_3: -3990211439798157715
+      Basic Buttons 1.0_30: 1890583222617077276
+      Basic Buttons 1.0_31: 9026280670340354752
+      Basic Buttons 1.0_32: 4999502202155163222
+      Basic Buttons 1.0_33: 1214996242943748795
+      Basic Buttons 1.0_34: -676501371119601218
+      Basic Buttons 1.0_35: 5197065591480758374
+      Basic Buttons 1.0_36: 5388202841729790634
+      Basic Buttons 1.0_37: 8715457100684018976
+      Basic Buttons 1.0_38: -6360284409369762021
+      Basic Buttons 1.0_39: -494771697606710799
+      Basic Buttons 1.0_4: 7347778935888884128
+      Basic Buttons 1.0_40: -2042039431262243577
+      Basic Buttons 1.0_41: 179785300552597036
+      Basic Buttons 1.0_42: -4783399376925291259
+      Basic Buttons 1.0_43: -3271720298965355703
+      Basic Buttons 1.0_44: 6873481403969812980
+      Basic Buttons 1.0_45: -3760316149191985170
+      Basic Buttons 1.0_46: -6979277973456197638
+      Basic Buttons 1.0_47: -8112953747203439710
+      Basic Buttons 1.0_48: 555141913120311546
+      Basic Buttons 1.0_49: 7005608930850832382
+      Basic Buttons 1.0_5: 4406851445504601438
+      Basic Buttons 1.0_50: -4511424939574943273
+      Basic Buttons 1.0_51: 2016434342515316105
+      Basic Buttons 1.0_52: -8562389921247012945
+      Basic Buttons 1.0_53: -7341410633139282641
+      Basic Buttons 1.0_54: 906691337628152834
+      Basic Buttons 1.0_55: -8754147033003898450
+      Basic Buttons 1.0_56: 8437408824294300745
+      Basic Buttons 1.0_57: 1490260218572996610
+      Basic Buttons 1.0_58: 2921719450087849070
+      Basic Buttons 1.0_59: -8800707929699175310
+      Basic Buttons 1.0_6: -3678258809056101376
+      Basic Buttons 1.0_60: -736020107580770245
+      Basic Buttons 1.0_61: 4816813677127906876
+      Basic Buttons 1.0_62: -3573069069466327621
+      Basic Buttons 1.0_63: 3963584814759223451
+      Basic Buttons 1.0_64: 7131731751744154036
+      Basic Buttons 1.0_65: 2888354676663404940
+      Basic Buttons 1.0_66: 3115663515080185125
+      Basic Buttons 1.0_67: 4074332054417649152
+      Basic Buttons 1.0_68: -2397810546718236322
+      Basic Buttons 1.0_69: 8673768057781227798
+      Basic Buttons 1.0_7: 1990519782474058878
+      Basic Buttons 1.0_70: 5414638404574218517
+      Basic Buttons 1.0_71: -5876217696532420663
+      Basic Buttons 1.0_72: 1353977262070015792
+      Basic Buttons 1.0_73: -251135883993516323
+      Basic Buttons 1.0_8: 6492764740536810316
+      Basic Buttons 1.0_9: -4408852304112681942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

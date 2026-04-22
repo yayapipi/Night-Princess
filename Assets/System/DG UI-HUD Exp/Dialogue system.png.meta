@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: e47983a09cc0d4a498be8a24cdc52b73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4568658167308613194
+    second: Dialogue system_0
+  - first:
+      213: 91989336030191974
+    second: Dialogue system_1
+  - first:
+      213: -7422504510924657146
+    second: Dialogue system_2
+  - first:
+      213: 5704753990982014618
+    second: Dialogue system_3
+  - first:
+      213: 5256440269756130247
+    second: Dialogue system_4
+  - first:
+      213: -8534542994428378538
+    second: Dialogue system_5
+  - first:
+      213: -2181402953484573948
+    second: Dialogue system_6
+  - first:
+      213: 4449101172286476735
+    second: Dialogue system_7
+  - first:
+      213: 7138589133266407683
+    second: Dialogue system_8
+  - first:
+      213: 6985435402950638726
+    second: Dialogue system_9
+  - first:
+      213: 7011402909304726206
+    second: Dialogue system_10
+  - first:
+      213: 551495888844296251
+    second: Dialogue system_11
+  - first:
+      213: 7400621722943995108
+    second: Dialogue system_12
+  - first:
+      213: -5467040461638999266
+    second: Dialogue system_13
+  - first:
+      213: 5276527191283467231
+    second: Dialogue system_14
+  - first:
+      213: -6978557680296611562
+    second: Dialogue system_15
+  - first:
+      213: 8840034517774003187
+    second: Dialogue system_16
+  - first:
+      213: -974349798945203519
+    second: Dialogue system_17
+  - first:
+      213: -7018930765724333541
+    second: Dialogue system_18
+  - first:
+      213: 4373315134695019992
+    second: Dialogue system_19
+  - first:
+      213: -371056724650414872
+    second: Dialogue system_20
+  - first:
+      213: -3602228343042737738
+    second: Dialogue system_21
+  - first:
+      213: 1774258544666325760
+    second: Dialogue system_22
+  - first:
+      213: 8703563876731800169
+    second: Dialogue system_23
+  - first:
+      213: -7174971065088866115
+    second: Dialogue system_24
+  - first:
+      213: 6845753367264614397
+    second: Dialogue system_25
+  - first:
+      213: 6811903389286493949
+    second: Dialogue system_26
+  - first:
+      213: 3582617633874212845
+    second: Dialogue system_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dialogue system_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 441
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46fd9ab562276f30800000000000000
+      internalID: 4568658167308613194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 441
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661243150dfc64100800000000000000
+      internalID: 91989336030191974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 441
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ee9923977fdf890800000000000000
+      internalID: -7422504510924657146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 441
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96997b978b5b2f40800000000000000
+      internalID: 5704753990982014618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 441
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c36fd55390a2f840800000000000000
+      internalID: 5256440269756130247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 441
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6524cc05d563f8980800000000000000
+      internalID: -8534542994428378538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 441
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403609542991ab1e0800000000000000
+      internalID: -2181402953484573948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 353
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1d8ef91f16ebd30800000000000000
+      internalID: 4449101172286476735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 361
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301decdaefc511360800000000000000
+      internalID: 7138589133266407683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 361
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7f421d7041f060800000000000000
+      internalID: 6985435402950638726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 324
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2af3a4cc18d4160800000000000000
+      internalID: 7011402909304726206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 324
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3017a5c69e47a700800000000000000
+      internalID: 551495888844296251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecbd113f3a44b660800000000000000
+      internalID: 7400621722943995108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 322
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13e15f6aab2124b0800000000000000
+      internalID: -5467040461638999266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 304
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd30424368df93940800000000000000
+      internalID: 5276527191283467231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611b85583ce272f90800000000000000
+      internalID: -6978557680296611562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 272
+        width: 138
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb6c12be8c1eaa70800000000000000
+      internalID: 8840034517774003187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 272
+        width: 138
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cad5ea250a6a72f0800000000000000
+      internalID: -974349798945203519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 272
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ac0fd08afb79e90800000000000000
+      internalID: -7018930765724333541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d51656b1f221bc30800000000000000
+      internalID: 4373315134695019992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 208
+        width: 138
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec21b7ffddb9daf0800000000000000
+      internalID: -371056724650414872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 208
+        width: 138
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9f71d4860520ec0800000000000000
+      internalID: -3602228343042737738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 138
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003b986febe6f9810800000000000000
+      internalID: 1774258544666325760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 144
+        width: 138
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a45808b3549c870800000000000000
+      internalID: 8703563876731800169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 138
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db80ca7b4d16d6c90800000000000000
+      internalID: -7174971065088866115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 80
+        width: 138
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7ddbbca60010f50800000000000000
+      internalID: 6845753367264614397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 16
+        width: 138
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe63b2aa0eb88e50800000000000000
+      internalID: 6811903389286493949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue system_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 16
+        width: 138
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de77f19a1c308b130800000000000000
+      internalID: 3582617633874212845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dialogue system_0: 4568658167308613194
+      Dialogue system_1: 91989336030191974
+      Dialogue system_10: 7011402909304726206
+      Dialogue system_11: 551495888844296251
+      Dialogue system_12: 7400621722943995108
+      Dialogue system_13: -5467040461638999266
+      Dialogue system_14: 5276527191283467231
+      Dialogue system_15: -6978557680296611562
+      Dialogue system_16: 8840034517774003187
+      Dialogue system_17: -974349798945203519
+      Dialogue system_18: -7018930765724333541
+      Dialogue system_19: 4373315134695019992
+      Dialogue system_2: -7422504510924657146
+      Dialogue system_20: -371056724650414872
+      Dialogue system_21: -3602228343042737738
+      Dialogue system_22: 1774258544666325760
+      Dialogue system_23: 8703563876731800169
+      Dialogue system_24: -7174971065088866115
+      Dialogue system_25: 6845753367264614397
+      Dialogue system_26: 6811903389286493949
+      Dialogue system_27: 3582617633874212845
+      Dialogue system_3: 5704753990982014618
+      Dialogue system_4: 5256440269756130247
+      Dialogue system_5: -8534542994428378538
+      Dialogue system_6: -2181402953484573948
+      Dialogue system_7: 4449101172286476735
+      Dialogue system_8: 7138589133266407683
+      Dialogue system_9: 6985435402950638726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

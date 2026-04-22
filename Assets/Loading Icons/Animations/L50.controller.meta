@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b800560db4115f343a685c82275e8231
+timeCreated: 1493376165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89411
+  packageName: Loading Icons
+  packageVersion: 1.0
+  assetPath: Assets/Loading Icons/Animations/L50.controller
+  uploadId: 179058

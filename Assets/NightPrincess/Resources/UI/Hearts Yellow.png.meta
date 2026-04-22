@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: a13c0674b393d58448a4a0909e14d968
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3009027018815929527
+    second: Hearts Yellow_0
+  - first:
+      213: -4899008820332311625
+    second: Hearts Yellow_1
+  - first:
+      213: 519300872058231167
+    second: Hearts Yellow_2
+  - first:
+      213: -2496307323210991453
+    second: Hearts Yellow_3
+  - first:
+      213: 5132881477511577059
+    second: Hearts Yellow_4
+  - first:
+      213: -4601163718784271382
+    second: Hearts Yellow_5
+  - first:
+      213: 6981524230655836848
+    second: Hearts Yellow_6
+  - first:
+      213: 1727290179515848791
+    second: Hearts Yellow_7
+  - first:
+      213: -2112876822711264588
+    second: Hearts Yellow_8
+  - first:
+      213: 4534543813897931281
+    second: Hearts Yellow_9
+  - first:
+      213: 6412332884322923054
+    second: Hearts Yellow_10
+  - first:
+      213: -7931001512445524942
+    second: Hearts Yellow_11
+  - first:
+      213: -66772467965026254
+    second: Hearts Yellow_12
+  - first:
+      213: -4180384331404155914
+    second: Hearts Yellow_13
+  - first:
+      213: -6422708200233085210
+    second: Hearts Yellow_14
+  - first:
+      213: 6734325922332800157
+    second: Hearts Yellow_15
+  - first:
+      213: 6445886250423787836
+    second: Hearts Yellow_16
+  - first:
+      213: 4499738033877522553
+    second: Hearts Yellow_17
+  - first:
+      213: -2235059609628599268
+    second: Hearts Yellow_18
+  - first:
+      213: -2132420158358429396
+    second: Hearts Yellow_19
+  - first:
+      213: 9138412614937259886
+    second: Hearts Yellow_20
+  - first:
+      213: 8096752834255523247
+    second: Hearts Yellow_21
+  - first:
+      213: 282254627612939113
+    second: Hearts Yellow_22
+  - first:
+      213: -3621098351024320537
+    second: Hearts Yellow_23
+  - first:
+      213: 3427340176705689503
+    second: Hearts Yellow_24
+  - first:
+      213: 7263842338678771961
+    second: Hearts Yellow_25
+  - first:
+      213: -4758315627660598033
+    second: Hearts Yellow_26
+  - first:
+      213: -4716960561225395647
+    second: Hearts Yellow_27
+  - first:
+      213: 757563463782743196
+    second: Hearts Yellow_28
+  - first:
+      213: 7016953378070424914
+    second: Hearts Yellow_29
+  - first:
+      213: 2626695969909143336
+    second: Hearts Yellow_30
+  - first:
+      213: -5082873176632077593
+    second: Hearts Yellow_31
+  - first:
+      213: 382559276879776936
+    second: Hearts Yellow_32
+  - first:
+      213: -5231868200006304378
+    second: Hearts Yellow_33
+  - first:
+      213: 4486173879479377703
+    second: Hearts Yellow_34
+  - first:
+      213: -4209517246265057110
+    second: Hearts Yellow_35
+  - first:
+      213: 2471073991807871983
+    second: Hearts Yellow_36
+  - first:
+      213: -7368281451513413204
+    second: Hearts Yellow_37
+  - first:
+      213: -4265055433026846668
+    second: Hearts Yellow_38
+  - first:
+      213: -8127347402235728907
+    second: Hearts Yellow_39
+  - first:
+      213: 3528477899046573830
+    second: Hearts Yellow_40
+  - first:
+      213: -3650866646164867025
+    second: Hearts Yellow_41
+  - first:
+      213: 7818293641673373330
+    second: Hearts Yellow_42
+  - first:
+      213: 5840199125338361913
+    second: Hearts Yellow_43
+  - first:
+      213: -2543814338279441195
+    second: Hearts Yellow_44
+  - first:
+      213: -3396969784658793372
+    second: Hearts Yellow_45
+  - first:
+      213: 8162358823475860787
+    second: Hearts Yellow_46
+  - first:
+      213: -7999678217997355889
+    second: Hearts Yellow_47
+  - first:
+      213: -2423417952611828859
+    second: Hearts Yellow_48
+  - first:
+      213: -1941806021529876054
+    second: Hearts Yellow_49
+  - first:
+      213: -2659342756252694797
+    second: Hearts Yellow_50
+  - first:
+      213: -141912667823870570
+    second: Hearts Yellow_51
+  - first:
+      213: -7953942133438066412
+    second: Hearts Yellow_52
+  - first:
+      213: 6326018861373992048
+    second: Hearts Yellow_53
+  - first:
+      213: -710387951940771377
+    second: Hearts Yellow_54
+  - first:
+      213: 501922643515971809
+    second: Hearts Yellow_55
+  - first:
+      213: -174658252428927026
+    second: Hearts Yellow_56
+  - first:
+      213: -1917810197156098110
+    second: Hearts Yellow_57
+  - first:
+      213: 2521749187705793525
+    second: Hearts Yellow_58
+  - first:
+      213: 8993651101744099261
+    second: Hearts Yellow_59
+  - first:
+      213: -2552465552785187566
+    second: Hearts Yellow_60
+  - first:
+      213: -6294933855183592066
+    second: Hearts Yellow_61
+  - first:
+      213: 5734666883568762566
+    second: Hearts Yellow_62
+  - first:
+      213: 4322624073772412249
+    second: Hearts Yellow_63
+  - first:
+      213: 5463701294143530423
+    second: Hearts Yellow_64
+  - first:
+      213: -8188660577604643167
+    second: Hearts Yellow_65
+  - first:
+      213: 6598616020344382756
+    second: Hearts Yellow_66
+  - first:
+      213: 8806819294171861520
+    second: Hearts Yellow_67
+  - first:
+      213: 8259051006283261168
+    second: Hearts Yellow_68
+  - first:
+      213: 8943303961360582043
+    second: Hearts Yellow_69
+  - first:
+      213: -2823184304190035023
+    second: Hearts Yellow_70
+  - first:
+      213: 744754892388945080
+    second: Hearts Yellow_71
+  - first:
+      213: -642075528925600516
+    second: Hearts Yellow_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hearts Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc7310912632c920800000000000000
+      internalID: 3009027018815929527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb46981f69330cb0800000000000000
+      internalID: -4899008820332311625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79d49a446de43700800000000000000
+      internalID: 519300872058231167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a87dcd27b55b5dd0800000000000000
+      internalID: -2496307323210991453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed72453288ab3740800000000000000
+      internalID: 5132881477511577059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebb27cc9f16520c0800000000000000
+      internalID: -4601163718784271382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2060f4c4b53e060800000000000000
+      internalID: 6981524230655836848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581016444198f710800000000000000
+      internalID: 1727290179515848791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 179
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba932869bd8da2e0800000000000000
+      internalID: -2112876822711264588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 179
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ac4ddd29fedee30800000000000000
+      internalID: 4534543813897931281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22bf97c8ce2df850800000000000000
+      internalID: 6412332884322923054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2344999052c6fe190800000000000000
+      internalID: -7931001512445524942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2302b2e4bc6c21ff0800000000000000
+      internalID: -66772467965026254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3eb06699a4cf5c0800000000000000
+      internalID: -4180384331404155914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e65e1dbbe4fdd6a0800000000000000
+      internalID: -6422708200233085210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f9521fb1257d50800000000000000
+      internalID: 6734325922332800157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a51b9463647950800000000000000
+      internalID: 6445886250423787836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9789593b6e7427e30800000000000000
+      internalID: 4499738033877522553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c934c70297bf0e0800000000000000
+      internalID: -2235059609628599268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e92df92f1862e0800000000000000
+      internalID: -2132420158358429396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fa84c1bd922de70800000000000000
+      internalID: 9138412614937259886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad00f7edc17d5070800000000000000
+      internalID: 8096752834255523247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963541f9615cae300800000000000000
+      internalID: 282254627612939113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef41723c364fbdc0800000000000000
+      internalID: -3621098351024320537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9797fc5bbb509f20800000000000000
+      internalID: 3427340176705689503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0146d1f1a5ec460800000000000000
+      internalID: 7263842338678771961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4a914b52117fdb0800000000000000
+      internalID: -4758315627660598033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14212a07c5df98eb0800000000000000
+      internalID: -4716960561225395647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cb591e4f7638a00800000000000000
+      internalID: 757563463782743196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d6d518be9316160800000000000000
+      internalID: 7016953378070424914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 147
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827726b5116e37420800000000000000
+      internalID: 2626695969909143336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2db7ca6c10679b0800000000000000
+      internalID: -5082873176632077593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 144
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac03fba2af1f4500800000000000000
+      internalID: 382559276879776936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d36fa779ba467b0800000000000000
+      internalID: -5231868200006304378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f1107ef57124e30800000000000000
+      internalID: 4486173879479377703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ad741e5ac495c0800000000000000
+      internalID: -4209517246265057110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb2a6704b40b4220800000000000000
+      internalID: 2471073991807871983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca181750f0b9eb990800000000000000
+      internalID: -7368281451513413204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430c51f4eaa7fc4c0800000000000000
+      internalID: -4265055433026846668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbab83299cd53f80800000000000000
+      internalID: -8127347402235728907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607dc7a54fba7f030800000000000000
+      internalID: 3528477899046573830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f287501e024855dc0800000000000000
+      internalID: -3650866646164867025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296f2add4a8208c60800000000000000
+      internalID: 7818293641673373330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 128
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930175b692e8c0150800000000000000
+      internalID: 5840199125338361913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcfe48465e82bcd0800000000000000
+      internalID: -2543814338279441195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c6da09af98bd0d0800000000000000
+      internalID: -3396969784658793372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335dd8a9a16864170800000000000000
+      internalID: 8162358823475860787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8476da7b0f6bf090800000000000000
+      internalID: -7999678217997355889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b7440463a4e5ed0800000000000000
+      internalID: -2423417952611828859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa94ff726b15d05e0800000000000000
+      internalID: -1941806021529876054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6cc8d5add181bd0800000000000000
+      internalID: -2659342756252694797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dea353e23d70ef0800000000000000
+      internalID: -141912667823870570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 115
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411596c75cbed9190800000000000000
+      internalID: -7953942133438066412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 115
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c2e9243a88ac750800000000000000
+      internalID: 6326018861373992048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 112
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc16ad7ebe13426f0800000000000000
+      internalID: -710387951940771377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e89e772cff27f600800000000000000
+      internalID: 501922643515971809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf12eaae3d739df0800000000000000
+      internalID: -174658252428927026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf83e369c19265e0800000000000000
+      internalID: -1917810197156098110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb65d1868d0ff220800000000000000
+      internalID: 2521749187705793525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfe141d60edfcc70800000000000000
+      internalID: 8993651101744099261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 79
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d51d07a12d39cd0800000000000000
+      internalID: -2552465552785187566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a33db207e3a8a0800000000000000
+      internalID: -6294933855183592066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 96
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceff44a521a59f40800000000000000
+      internalID: 5734666883568762566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95da1ce51bb0dfb30800000000000000
+      internalID: 4322624073772412249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5644c0167f2db40800000000000000
+      internalID: 5463701294143530423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a651ad07980c5e80800000000000000
+      internalID: -8188660577604643167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42524dd3f4ef29b50800000000000000
+      internalID: 6598616020344382756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 47
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0129b2ecc7b183a70800000000000000
+      internalID: 8806819294171861520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 47
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4a853c12b0e9270800000000000000
+      internalID: 8259051006283261168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95cd37b19ffc1c70800000000000000
+      internalID: 8943303961360582043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6b4d45d802d8d0800000000000000
+      internalID: -2823184304190035023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcc395f0a6e55a00800000000000000
+      internalID: 744754892388945080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf42b6355b3e617f0800000000000000
+      internalID: -642075528925600516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hearts Yellow_0: 3009027018815929527
+      Hearts Yellow_1: -4899008820332311625
+      Hearts Yellow_10: 6412332884322923054
+      Hearts Yellow_11: -7931001512445524942
+      Hearts Yellow_12: -66772467965026254
+      Hearts Yellow_13: -4180384331404155914
+      Hearts Yellow_14: -6422708200233085210
+      Hearts Yellow_15: 6734325922332800157
+      Hearts Yellow_16: 6445886250423787836
+      Hearts Yellow_17: 4499738033877522553
+      Hearts Yellow_18: -2235059609628599268
+      Hearts Yellow_19: -2132420158358429396
+      Hearts Yellow_2: 519300872058231167
+      Hearts Yellow_20: 9138412614937259886
+      Hearts Yellow_21: 8096752834255523247
+      Hearts Yellow_22: 282254627612939113
+      Hearts Yellow_23: -3621098351024320537
+      Hearts Yellow_24: 3427340176705689503
+      Hearts Yellow_25: 7263842338678771961
+      Hearts Yellow_26: -4758315627660598033
+      Hearts Yellow_27: -4716960561225395647
+      Hearts Yellow_28: 757563463782743196
+      Hearts Yellow_29: 7016953378070424914
+      Hearts Yellow_3: -2496307323210991453
+      Hearts Yellow_30: 2626695969909143336
+      Hearts Yellow_31: -5082873176632077593
+      Hearts Yellow_32: 382559276879776936
+      Hearts Yellow_33: -5231868200006304378
+      Hearts Yellow_34: 4486173879479377703
+      Hearts Yellow_35: -4209517246265057110
+      Hearts Yellow_36: 2471073991807871983
+      Hearts Yellow_37: -7368281451513413204
+      Hearts Yellow_38: -4265055433026846668
+      Hearts Yellow_39: -8127347402235728907
+      Hearts Yellow_4: 5132881477511577059
+      Hearts Yellow_40: 3528477899046573830
+      Hearts Yellow_41: -3650866646164867025
+      Hearts Yellow_42: 7818293641673373330
+      Hearts Yellow_43: 5840199125338361913
+      Hearts Yellow_44: -2543814338279441195
+      Hearts Yellow_45: -3396969784658793372
+      Hearts Yellow_46: 8162358823475860787
+      Hearts Yellow_47: -7999678217997355889
+      Hearts Yellow_48: -2423417952611828859
+      Hearts Yellow_49: -1941806021529876054
+      Hearts Yellow_5: -4601163718784271382
+      Hearts Yellow_50: -2659342756252694797
+      Hearts Yellow_51: -141912667823870570
+      Hearts Yellow_52: -7953942133438066412
+      Hearts Yellow_53: 6326018861373992048
+      Hearts Yellow_54: -710387951940771377
+      Hearts Yellow_55: 501922643515971809
+      Hearts Yellow_56: -174658252428927026
+      Hearts Yellow_57: -1917810197156098110
+      Hearts Yellow_58: 2521749187705793525
+      Hearts Yellow_59: 8993651101744099261
+      Hearts Yellow_6: 6981524230655836848
+      Hearts Yellow_60: -2552465552785187566
+      Hearts Yellow_61: -6294933855183592066
+      Hearts Yellow_62: 5734666883568762566
+      Hearts Yellow_63: 4322624073772412249
+      Hearts Yellow_64: 5463701294143530423
+      Hearts Yellow_65: -8188660577604643167
+      Hearts Yellow_66: 6598616020344382756
+      Hearts Yellow_67: 8806819294171861520
+      Hearts Yellow_68: 8259051006283261168
+      Hearts Yellow_69: 8943303961360582043
+      Hearts Yellow_7: 1727290179515848791
+      Hearts Yellow_70: -2823184304190035023
+      Hearts Yellow_71: 744754892388945080
+      Hearts Yellow_72: -642075528925600516
+      Hearts Yellow_8: -2112876822711264588
+      Hearts Yellow_9: 4534543813897931281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

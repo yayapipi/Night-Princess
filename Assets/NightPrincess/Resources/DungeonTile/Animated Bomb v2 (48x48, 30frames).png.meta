@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: a6666944289243547903350289de9515
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2815287900070772436
+    second: Animated Bomb v2 (48x48, 30frames)_0
+  - first:
+      213: 4153394402912057709
+    second: Animated Bomb v2 (48x48, 30frames)_1
+  - first:
+      213: -2011344603498973255
+    second: Animated Bomb v2 (48x48, 30frames)_2
+  - first:
+      213: -7644919494372391137
+    second: Animated Bomb v2 (48x48, 30frames)_3
+  - first:
+      213: -1487743291397722656
+    second: Animated Bomb v2 (48x48, 30frames)_4
+  - first:
+      213: 7169840295853569936
+    second: Animated Bomb v2 (48x48, 30frames)_5
+  - first:
+      213: -4012908717445044557
+    second: Animated Bomb v2 (48x48, 30frames)_6
+  - first:
+      213: -4174320109949174755
+    second: Animated Bomb v2 (48x48, 30frames)_7
+  - first:
+      213: 8860506094015061396
+    second: Animated Bomb v2 (48x48, 30frames)_8
+  - first:
+      213: -4418955774813135846
+    second: Animated Bomb v2 (48x48, 30frames)_9
+  - first:
+      213: -7244038521909124591
+    second: Animated Bomb v2 (48x48, 30frames)_10
+  - first:
+      213: 3731380904349664853
+    second: Animated Bomb v2 (48x48, 30frames)_11
+  - first:
+      213: 8052990856873211252
+    second: Animated Bomb v2 (48x48, 30frames)_12
+  - first:
+      213: 8162881650317996616
+    second: Animated Bomb v2 (48x48, 30frames)_13
+  - first:
+      213: 5160515285620531628
+    second: Animated Bomb v2 (48x48, 30frames)_14
+  - first:
+      213: -2975801669400152217
+    second: Animated Bomb v2 (48x48, 30frames)_15
+  - first:
+      213: 4842149143065019772
+    second: Animated Bomb v2 (48x48, 30frames)_16
+  - first:
+      213: -1337759590101419766
+    second: Animated Bomb v2 (48x48, 30frames)_17
+  - first:
+      213: -5819876245632477181
+    second: Animated Bomb v2 (48x48, 30frames)_18
+  - first:
+      213: 7345448426490407442
+    second: Animated Bomb v2 (48x48, 30frames)_19
+  - first:
+      213: -4748349181434485727
+    second: Animated Bomb v2 (48x48, 30frames)_20
+  - first:
+      213: 3121429260750282247
+    second: Animated Bomb v2 (48x48, 30frames)_21
+  - first:
+      213: -3103361165545764939
+    second: Animated Bomb v2 (48x48, 30frames)_22
+  - first:
+      213: 5461057339534383192
+    second: Animated Bomb v2 (48x48, 30frames)_23
+  - first:
+      213: 1211649359593531241
+    second: Animated Bomb v2 (48x48, 30frames)_24
+  - first:
+      213: 6352369659538260157
+    second: Animated Bomb v2 (48x48, 30frames)_25
+  - first:
+      213: 8460361361367044133
+    second: Animated Bomb v2 (48x48, 30frames)_26
+  - first:
+      213: 1631031658738341399
+    second: Animated Bomb v2 (48x48, 30frames)_27
+  - first:
+      213: 8671564262285549158
+    second: Animated Bomb v2 (48x48, 30frames)_28
+  - first:
+      213: 4611045027862673
+    second: Animated Bomb v2 (48x48, 30frames)_29
+  - first:
+      213: -256782329450677619
+    second: Animated Bomb v2 (48x48, 30frames)_30
+  - first:
+      213: 8822742210387879550
+    second: Animated Bomb v2 (48x48, 30frames)_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2183d722961ee8d0800000000000000
+      internalID: -2815287900070772436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d693bad2432d3a930800000000000000
+      internalID: 4153394402912057709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b77b8b5db44614e0800000000000000
+      internalID: -2011344603498973255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f178971793ac7e590800000000000000
+      internalID: -7644919494372391137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eda44fdb597a5be0800000000000000
+      internalID: -1487743291397722656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09732aaf2c3608360800000000000000
+      internalID: 7169840295853569936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ae9468c84f48c0800000000000000
+      internalID: -4012908717445044557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cb5bbf9f5d116c0800000000000000
+      internalID: -4174320109949174755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d93f7f857d6fa70800000000000000
+      internalID: 8860506094015061396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c1a1ca227bca2c0800000000000000
+      internalID: -4418955774813135846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1126c5a4851087b90800000000000000
+      internalID: -7244038521909124591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556007da92788c330800000000000000
+      internalID: 3731380904349664853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475756b8488f1cf60800000000000000
+      internalID: 8052990856873211252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84232c6bc91684170800000000000000
+      internalID: 8162881650317996616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a2698f45dd9740800000000000000
+      internalID: 5160515285620531628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767b36de524d3b6d0800000000000000
+      internalID: -2975801669400152217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754ad5adf4c23340800000000000000
+      internalID: 4842149143065019772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09f1259db25f6de0800000000000000
+      internalID: -1337759590101419766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308975eb365ab3fa0800000000000000
+      internalID: -5819876245632477181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aa9e01d6640f560800000000000000
+      internalID: 7345448426490407442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124a41bc3997a1eb0800000000000000
+      internalID: -4748349181434485727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Bomb v2 (48x48, 30frames)_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed786ef5b815b20800000000000000
+      internalID: 3121429260750282247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5918137481af4444480dfd2e065d525c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":3.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Animated Bomb v2 (48x48, 30frames)_0: -2815287900070772436
+      Animated Bomb v2 (48x48, 30frames)_1: 4153394402912057709
+      Animated Bomb v2 (48x48, 30frames)_10: -7244038521909124591
+      Animated Bomb v2 (48x48, 30frames)_11: 3731380904349664853
+      Animated Bomb v2 (48x48, 30frames)_12: 8052990856873211252
+      Animated Bomb v2 (48x48, 30frames)_13: 8162881650317996616
+      Animated Bomb v2 (48x48, 30frames)_14: 5160515285620531628
+      Animated Bomb v2 (48x48, 30frames)_15: -2975801669400152217
+      Animated Bomb v2 (48x48, 30frames)_16: 4842149143065019772
+      Animated Bomb v2 (48x48, 30frames)_17: -1337759590101419766
+      Animated Bomb v2 (48x48, 30frames)_18: -5819876245632477181
+      Animated Bomb v2 (48x48, 30frames)_19: 7345448426490407442
+      Animated Bomb v2 (48x48, 30frames)_2: -2011344603498973255
+      Animated Bomb v2 (48x48, 30frames)_20: -4748349181434485727
+      Animated Bomb v2 (48x48, 30frames)_21: 3121429260750282247
+      Animated Bomb v2 (48x48, 30frames)_3: -7644919494372391137
+      Animated Bomb v2 (48x48, 30frames)_4: -1487743291397722656
+      Animated Bomb v2 (48x48, 30frames)_5: 7169840295853569936
+      Animated Bomb v2 (48x48, 30frames)_6: -4012908717445044557
+      Animated Bomb v2 (48x48, 30frames)_7: -4174320109949174755
+      Animated Bomb v2 (48x48, 30frames)_8: 8860506094015061396
+      Animated Bomb v2 (48x48, 30frames)_9: -4418955774813135846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

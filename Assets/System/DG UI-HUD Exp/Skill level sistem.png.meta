@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 55b69622567dcdd45a0708be61079f03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 838376258298320104
+    second: Skill level sistem_0
+  - first:
+      213: -1461195220895347666
+    second: Skill level sistem_1
+  - first:
+      213: 3549656444310524066
+    second: Skill level sistem_2
+  - first:
+      213: 4763577437411068319
+    second: Skill level sistem_3
+  - first:
+      213: -2987694254005382656
+    second: Skill level sistem_4
+  - first:
+      213: -1651556474550928854
+    second: Skill level sistem_5
+  - first:
+      213: -3492945120082359533
+    second: Skill level sistem_6
+  - first:
+      213: -8838786532453033767
+    second: Skill level sistem_7
+  - first:
+      213: -853855899162749712
+    second: Skill level sistem_8
+  - first:
+      213: 6260608456169232463
+    second: Skill level sistem_9
+  - first:
+      213: -6597155770314388460
+    second: Skill level sistem_10
+  - first:
+      213: -4053012716885144171
+    second: Skill level sistem_11
+  - first:
+      213: -2273976763176881569
+    second: Skill level sistem_12
+  - first:
+      213: 7675929429666713521
+    second: Skill level sistem_13
+  - first:
+      213: 3363307951141399317
+    second: Skill level sistem_14
+  - first:
+      213: -4844228617614112617
+    second: Skill level sistem_15
+  - first:
+      213: 6158441753921511676
+    second: Skill level sistem_16
+  - first:
+      213: -4201284034647354326
+    second: Skill level sistem_17
+  - first:
+      213: -7357342239638981882
+    second: Skill level sistem_18
+  - first:
+      213: 2724407555105424729
+    second: Skill level sistem_19
+  - first:
+      213: -6772805847691131382
+    second: Skill level sistem_20
+  - first:
+      213: -351346259695245354
+    second: Skill level sistem_21
+  - first:
+      213: -7201353703120466207
+    second: Skill level sistem_22
+  - first:
+      213: 4146510191052944118
+    second: Skill level sistem_23
+  - first:
+      213: -3862951034110434267
+    second: Skill level sistem_24
+  - first:
+      213: 8052405898317152368
+    second: Skill level sistem_25
+  - first:
+      213: -6628462829494790798
+    second: Skill level sistem_26
+  - first:
+      213: -1495772403900039677
+    second: Skill level sistem_27
+  - first:
+      213: 7770660333335986388
+    second: Skill level sistem_28
+  - first:
+      213: -856395921931708822
+    second: Skill level sistem_29
+  - first:
+      213: -9173727165568256327
+    second: Skill level sistem_30
+  - first:
+      213: 5812964377491211169
+    second: Skill level sistem_31
+  - first:
+      213: -232580895832509628
+    second: Skill level sistem_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill level sistem_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 105
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e41ef7d3c282ab00800000000000000
+      internalID: 838376258298320104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 105
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cc80730bac8bbe0800000000000000
+      internalID: -1461195220895347666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a01ecdaab9e24130800000000000000
+      internalID: 3549656444310524066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 85
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99c3f8d070ab1240800000000000000
+      internalID: 4763577437411068319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002988cc7e39986d0800000000000000
+      internalID: -2987694254005382656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 89
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a35eff22e7419e0800000000000000
+      internalID: -1651556474550928854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 89
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b8e817be0968fc0800000000000000
+      internalID: -3492945120082359533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d851a78a72565580800000000000000
+      internalID: -8838786532453033767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 69
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45809659e7624f0800000000000000
+      internalID: -853855899162749712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4816c3883622e650800000000000000
+      internalID: 6260608456169232463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 69
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c0e76b7c13274a0800000000000000
+      internalID: -6597155770314388460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 69
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d8be3686ec0c7c0800000000000000
+      internalID: -4053012716885144171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5279539e263170e0800000000000000
+      internalID: -2273976763176881569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 53
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf4040c521668a60800000000000000
+      internalID: 7675929429666713521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ba70213cedcae20800000000000000
+      internalID: 3363307951141399317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 53
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7984454fcb7d5ccb0800000000000000
+      internalID: -4844228617614112617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 53
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0ec68752e277550800000000000000
+      internalID: 6158441753921511676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24135a0e6a02b5c0800000000000000
+      internalID: -4201284034647354326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 37
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6037753c63875e990800000000000000
+      internalID: -7357342239638981882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9550371ac3a0fc520800000000000000
+      internalID: 2724407555105424729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 37
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a068ea327f82202a0800000000000000
+      internalID: -6772805847691131382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 37
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e3b53074cf1bf0800000000000000
+      internalID: -351346259695245354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee8f8f16f6af0c90800000000000000
+      internalID: -7201353703120466207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 21
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f27f33bc0d5b8930800000000000000
+      internalID: 4146510191052944118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524ae13508a046ac0800000000000000
+      internalID: -3862951034110434267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07044744084efbf60800000000000000
+      internalID: 8052405898317152368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 21
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2751519fc28f204a0800000000000000
+      internalID: -6628462829494790798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 25
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eb4b07ce2fd3be0800000000000000
+      internalID: -1495772403900039677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0c5b6076ee6db60800000000000000
+      internalID: 7770660333335986388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66da2642787d14f0800000000000000
+      internalID: -856395921931708822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6f3f55fbf50b080800000000000000
+      internalID: -9173727165568256327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a30d5c8d4ccba050800000000000000
+      internalID: 5812964377491211169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill level sistem_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4437c5258e4b5ccf0800000000000000
+      internalID: -232580895832509628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skill level sistem_0: 838376258298320104
+      Skill level sistem_1: -1461195220895347666
+      Skill level sistem_10: -6597155770314388460
+      Skill level sistem_11: -4053012716885144171
+      Skill level sistem_12: -2273976763176881569
+      Skill level sistem_13: 7675929429666713521
+      Skill level sistem_14: 3363307951141399317
+      Skill level sistem_15: -4844228617614112617
+      Skill level sistem_16: 6158441753921511676
+      Skill level sistem_17: -4201284034647354326
+      Skill level sistem_18: -7357342239638981882
+      Skill level sistem_19: 2724407555105424729
+      Skill level sistem_2: 3549656444310524066
+      Skill level sistem_20: -6772805847691131382
+      Skill level sistem_21: -351346259695245354
+      Skill level sistem_22: -7201353703120466207
+      Skill level sistem_23: 4146510191052944118
+      Skill level sistem_24: -3862951034110434267
+      Skill level sistem_25: 8052405898317152368
+      Skill level sistem_26: -6628462829494790798
+      Skill level sistem_27: -1495772403900039677
+      Skill level sistem_28: 7770660333335986388
+      Skill level sistem_29: -856395921931708822
+      Skill level sistem_3: 4763577437411068319
+      Skill level sistem_30: -9173727165568256327
+      Skill level sistem_31: 5812964377491211169
+      Skill level sistem_32: -232580895832509628
+      Skill level sistem_4: -2987694254005382656
+      Skill level sistem_5: -1651556474550928854
+      Skill level sistem_6: -3492945120082359533
+      Skill level sistem_7: -8838786532453033767
+      Skill level sistem_8: -853855899162749712
+      Skill level sistem_9: 6260608456169232463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

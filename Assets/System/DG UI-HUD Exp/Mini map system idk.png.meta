@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: e5610d8ee7ff4a249b25b87b6268390a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4157995839006353975
+    second: Mini map system idk_0
+  - first:
+      213: 7299730865528399820
+    second: Mini map system idk_1
+  - first:
+      213: 6524624579940244508
+    second: Mini map system idk_2
+  - first:
+      213: -290885536137419899
+    second: Mini map system idk_3
+  - first:
+      213: 6642976423789343808
+    second: Mini map system idk_4
+  - first:
+      213: -5862779788194666392
+    second: Mini map system idk_5
+  - first:
+      213: 4006091471786080072
+    second: Mini map system idk_6
+  - first:
+      213: -2950032748655688761
+    second: Mini map system idk_7
+  - first:
+      213: -2892880324979010132
+    second: Mini map system idk_8
+  - first:
+      213: -5578609313068178354
+    second: Mini map system idk_9
+  - first:
+      213: -6461615457362445011
+    second: Mini map system idk_10
+  - first:
+      213: -2290142620831310856
+    second: Mini map system idk_11
+  - first:
+      213: 3627210588992855377
+    second: Mini map system idk_12
+  - first:
+      213: 5392609326411472926
+    second: Mini map system idk_13
+  - first:
+      213: -3061494523660230163
+    second: Mini map system idk_14
+  - first:
+      213: -5257313074429915785
+    second: Mini map system idk_15
+  - first:
+      213: 5674023418551656243
+    second: Mini map system idk_16
+  - first:
+      213: -6796758548172237476
+    second: Mini map system idk_17
+  - first:
+      213: -5942606159550036052
+    second: Mini map system idk_18
+  - first:
+      213: -6016436733446123072
+    second: Mini map system idk_19
+  - first:
+      213: -2019352453975079305
+    second: Mini map system idk_20
+  - first:
+      213: 3128581836822397809
+    second: Mini map system idk_21
+  - first:
+      213: -7628485178706841892
+    second: Mini map system idk_22
+  - first:
+      213: -773096102775810075
+    second: Mini map system idk_23
+  - first:
+      213: -7584020312356807894
+    second: Mini map system idk_24
+  - first:
+      213: 8718365123338319935
+    second: Mini map system idk_25
+  - first:
+      213: 5399404285425460857
+    second: Mini map system idk_26
+  - first:
+      213: 1146995284093646749
+    second: Mini map system idk_27
+  - first:
+      213: 4467082528481764793
+    second: Mini map system idk_28
+  - first:
+      213: 4948877382918795308
+    second: Mini map system idk_29
+  - first:
+      213: 919301864193571449
+    second: Mini map system idk_30
+  - first:
+      213: 5946341314557134302
+    second: Mini map system idk_31
+  - first:
+      213: 7753314365968711901
+    second: Mini map system idk_32
+  - first:
+      213: -4488546071007685471
+    second: Mini map system idk_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini map system idk_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 146
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5597e70d4db46c0800000000000000
+      internalID: -4157995839006353975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 146
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc766cbeb8add4560800000000000000
+      internalID: 7299730865528399820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cde1c8c7f1c8a50800000000000000
+      internalID: 6524624579940244508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583ea34652196fbf0800000000000000
+      internalID: -290885536137419899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 113
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04432478cd7903c50800000000000000
+      internalID: 6642976423789343808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868215058d833aea0800000000000000
+      internalID: -5862779788194666392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847f789e7fe789730800000000000000
+      internalID: 4006091471786080072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3cb9458d06f07d0800000000000000
+      internalID: -2950032748655688761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5d8ebebac6ad7d0800000000000000
+      internalID: -2892880324979010132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44a2e1f26cc492b0800000000000000
+      internalID: -5578609313068178354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 98
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dfcb40afab356a0800000000000000
+      internalID: -6461615457362445011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb1e588b67c730e0800000000000000
+      internalID: -2290142620831310856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d547a10d0765230800000000000000
+      internalID: 3627210588992855377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e6317c9566da40800000000000000
+      internalID: 5392609326411472926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 82
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1ad6383f26385d0800000000000000
+      internalID: -3061494523660230163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d869dfc954a07b0800000000000000
+      internalID: -5257313074429915785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd406ac3e2ebe40800000000000000
+      internalID: 5674023418551656243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5518187c101da1a0800000000000000
+      internalID: -6796758548172237476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7c8f3ee2f978da0800000000000000
+      internalID: -5942606159550036052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11559daa2518ca0800000000000000
+      internalID: -6016436733446123072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776808064a1d9f3e0800000000000000
+      internalID: -2019352453975079305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173c98aca94fa6b20800000000000000
+      internalID: 3128581836822397809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 82
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdea8dcb52d222690800000000000000
+      internalID: -7628485178706841892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71fc8c0396545f0800000000000000
+      internalID: -773096102775810075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b10a035b520c690800000000000000
+      internalID: -7584020312356807894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f383cb643eaddf870800000000000000
+      internalID: 8718365123338319935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a18f17998eea40800000000000000
+      internalID: 5399404285425460857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9733734222faef00800000000000000
+      internalID: 1146995284093646749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5628c54e34efd30800000000000000
+      internalID: 4467082528481764793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20f6dd62c1fda440800000000000000
+      internalID: 4948877382918795308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97abc90cc2402cc00800000000000000
+      internalID: 919301864193571449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed54867abe5a58250800000000000000
+      internalID: 5946341314557134302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 29
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd08f77465e499b60800000000000000
+      internalID: 7753314365968711901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map system idk_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 23
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49c97312b75b1c0800000000000000
+      internalID: -4488546071007685471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mini map system idk_0: -4157995839006353975
+      Mini map system idk_1: 7299730865528399820
+      Mini map system idk_10: -6461615457362445011
+      Mini map system idk_11: -2290142620831310856
+      Mini map system idk_12: 3627210588992855377
+      Mini map system idk_13: 5392609326411472926
+      Mini map system idk_14: -3061494523660230163
+      Mini map system idk_15: -5257313074429915785
+      Mini map system idk_16: 5674023418551656243
+      Mini map system idk_17: -6796758548172237476
+      Mini map system idk_18: -5942606159550036052
+      Mini map system idk_19: -6016436733446123072
+      Mini map system idk_2: 6524624579940244508
+      Mini map system idk_20: -2019352453975079305
+      Mini map system idk_21: 3128581836822397809
+      Mini map system idk_22: -7628485178706841892
+      Mini map system idk_23: -773096102775810075
+      Mini map system idk_24: -7584020312356807894
+      Mini map system idk_25: 8718365123338319935
+      Mini map system idk_26: 5399404285425460857
+      Mini map system idk_27: 1146995284093646749
+      Mini map system idk_28: 4467082528481764793
+      Mini map system idk_29: 4948877382918795308
+      Mini map system idk_3: -290885536137419899
+      Mini map system idk_30: 919301864193571449
+      Mini map system idk_31: 5946341314557134302
+      Mini map system idk_32: 7753314365968711901
+      Mini map system idk_33: -4488546071007685471
+      Mini map system idk_4: 6642976423789343808
+      Mini map system idk_5: -5862779788194666392
+      Mini map system idk_6: 4006091471786080072
+      Mini map system idk_7: -2950032748655688761
+      Mini map system idk_8: -2892880324979010132
+      Mini map system idk_9: -5578609313068178354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

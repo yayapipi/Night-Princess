@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 71cf5e9c9715b1c438b0c5113ead426a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1107049712715650482
+    second: lifebar system_0
+  - first:
+      213: 3381944452875382519
+    second: lifebar system_1
+  - first:
+      213: 7960253680045039560
+    second: lifebar system_2
+  - first:
+      213: -1463491748647726318
+    second: lifebar system_3
+  - first:
+      213: 1040741780393342169
+    second: lifebar system_4
+  - first:
+      213: -3192313976115389316
+    second: lifebar system_5
+  - first:
+      213: -5174769064634242275
+    second: lifebar system_6
+  - first:
+      213: 6918909988188666946
+    second: lifebar system_7
+  - first:
+      213: 5647170069322176039
+    second: lifebar system_8
+  - first:
+      213: -2063357590807048404
+    second: lifebar system_9
+  - first:
+      213: 4112492740610492788
+    second: lifebar system_10
+  - first:
+      213: -3851990665130787356
+    second: lifebar system_11
+  - first:
+      213: -2602650798692254039
+    second: lifebar system_12
+  - first:
+      213: 6456112017694367127
+    second: lifebar system_13
+  - first:
+      213: -3950921693786109584
+    second: lifebar system_14
+  - first:
+      213: 1189748369129719069
+    second: lifebar system_15
+  - first:
+      213: 1092976997391538932
+    second: lifebar system_16
+  - first:
+      213: -1823825140112264793
+    second: lifebar system_17
+  - first:
+      213: 2038346783954374801
+    second: lifebar system_18
+  - first:
+      213: -1651307524600526487
+    second: lifebar system_19
+  - first:
+      213: 3671798638741572304
+    second: lifebar system_20
+  - first:
+      213: -6332947648788660359
+    second: lifebar system_21
+  - first:
+      213: 6942558260128346841
+    second: lifebar system_22
+  - first:
+      213: -374921420393930247
+    second: lifebar system_23
+  - first:
+      213: -1314293361310991079
+    second: lifebar system_24
+  - first:
+      213: 429804144823721250
+    second: lifebar system_25
+  - first:
+      213: 2441969666935108149
+    second: lifebar system_26
+  - first:
+      213: 1509554323819457901
+    second: lifebar system_27
+  - first:
+      213: 6717212111618541007
+    second: lifebar system_28
+  - first:
+      213: -9211200421916975167
+    second: lifebar system_29
+  - first:
+      213: -3224272905965175939
+    second: lifebar system_30
+  - first:
+      213: 6083287285231680970
+    second: lifebar system_31
+  - first:
+      213: -4134200092845952689
+    second: lifebar system_32
+  - first:
+      213: -3766192507301369088
+    second: lifebar system_33
+  - first:
+      213: 7983951215848839033
+    second: lifebar system_34
+  - first:
+      213: 6190187746342921276
+    second: lifebar system_35
+  - first:
+      213: 8724433015774462132
+    second: lifebar system_36
+  - first:
+      213: 1495091794486024868
+    second: lifebar system_37
+  - first:
+      213: -1628306665160702969
+    second: lifebar system_38
+  - first:
+      213: -3645254615909095738
+    second: lifebar system_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lifebar system_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b55d1b29d70d5f00800000000000000
+      internalID: 1107049712715650482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 146
+        width: 95
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6db3cf841fee20800000000000000
+      internalID: 3381944452875382519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf9419fb80887e60800000000000000
+      internalID: 7960253680045039560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213132e2202a0bbe0800000000000000
+      internalID: -1463491748647726318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 146
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b04b9225717e00800000000000000
+      internalID: 1040741780393342169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 151
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c90223a5f92b3d0800000000000000
+      internalID: -3192313976115389316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1babcbe3f68f28b0800000000000000
+      internalID: -5174769064634242275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c33eee9f7e40060800000000000000
+      internalID: 6918909988188666946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7269a201247ce5e40800000000000000
+      internalID: 5647170069322176039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f075b043b7d53e0800000000000000
+      internalID: -2063357590807048404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 135
+        width: 129
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790671db52821930800000000000000
+      internalID: 4112492740610492788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed32c616eafa8ac0800000000000000
+      internalID: -3851990665130787356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aebf8553e681ebd0800000000000000
+      internalID: -2602650798692254039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d9dc49ca7b89950800000000000000
+      internalID: 6456112017694367127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0798e7207a18b29c0800000000000000
+      internalID: -3950921693786109584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 119
+        width: 129
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15c31296d5d28010800000000000000
+      internalID: 1189748369129719069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa123dc9c80b2f00800000000000000
+      internalID: 1092976997391538932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a17e27b2b870b6e0800000000000000
+      internalID: -1823825140112264793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19019a2b999a94c10800000000000000
+      internalID: 2038346783954374801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969814d2e806519e0800000000000000
+      internalID: -1651307524600526487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 103
+        width: 129
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da44fc6869d4f230800000000000000
+      internalID: 3671798638741572304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f7ec4baa9dc18a0800000000000000
+      internalID: -6332947648788660359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2776f44fbe85060800000000000000
+      internalID: 6942558260128346841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f12cbe54f20ccaf0800000000000000
+      internalID: -374921420393930247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d776cb621b2cde0800000000000000
+      internalID: -1314293361310991079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d553fa798f6f500800000000000000
+      internalID: 429804144823721250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 82
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53232f5597e93e120800000000000000
+      internalID: 2441969666935108149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6de968d8a303f410800000000000000
+      internalID: 1509554323819457901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc589f183d4583d50800000000000000
+      internalID: 6717212111618541007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 95
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd5b0f40e3b2080800000000000000
+      internalID: -9211200421916975167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 22
+        width: 95
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b770dffd41143d0800000000000000
+      internalID: -3224272905965175939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 87
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd72e62e8d2c6450800000000000000
+      internalID: 6083287285231680970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41b7836bee50a6c0800000000000000
+      internalID: -4134200092845952689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b60966edbcbbbc0800000000000000
+      internalID: -3766192507301369088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d7bc7451bcce60800000000000000
+      internalID: 7983951215848839033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34eeb155f6f7e550800000000000000
+      internalID: 6190187746342921276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b04de39a99631970800000000000000
+      internalID: 8724433015774462132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aad0f4d012afb410800000000000000
+      internalID: 1495091794486024868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 24
+        width: 129
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70402b517b71769e0800000000000000
+      internalID: -1628306665160702969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar system_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6a2ee7d34796dc0800000000000000
+      internalID: -3645254615909095738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lifebar system_0: 1107049712715650482
+      lifebar system_1: 3381944452875382519
+      lifebar system_10: 4112492740610492788
+      lifebar system_11: -3851990665130787356
+      lifebar system_12: -2602650798692254039
+      lifebar system_13: 6456112017694367127
+      lifebar system_14: -3950921693786109584
+      lifebar system_15: 1189748369129719069
+      lifebar system_16: 1092976997391538932
+      lifebar system_17: -1823825140112264793
+      lifebar system_18: 2038346783954374801
+      lifebar system_19: -1651307524600526487
+      lifebar system_2: 7960253680045039560
+      lifebar system_20: 3671798638741572304
+      lifebar system_21: -6332947648788660359
+      lifebar system_22: 6942558260128346841
+      lifebar system_23: -374921420393930247
+      lifebar system_24: -1314293361310991079
+      lifebar system_25: 429804144823721250
+      lifebar system_26: 2441969666935108149
+      lifebar system_27: 1509554323819457901
+      lifebar system_28: 6717212111618541007
+      lifebar system_29: -9211200421916975167
+      lifebar system_3: -1463491748647726318
+      lifebar system_30: -3224272905965175939
+      lifebar system_31: 6083287285231680970
+      lifebar system_32: -4134200092845952689
+      lifebar system_33: -3766192507301369088
+      lifebar system_34: 7983951215848839033
+      lifebar system_35: 6190187746342921276
+      lifebar system_36: 8724433015774462132
+      lifebar system_37: 1495091794486024868
+      lifebar system_38: -1628306665160702969
+      lifebar system_39: -3645254615909095738
+      lifebar system_4: 1040741780393342169
+      lifebar system_5: -3192313976115389316
+      lifebar system_6: -5174769064634242275
+      lifebar system_7: 6918909988188666946
+      lifebar system_8: 5647170069322176039
+      lifebar system_9: -2063357590807048404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

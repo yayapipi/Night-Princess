@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 526e39da9e8b9b241a759bb3ce293804
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5078348794933122009
+    second: Mini map UI icons_0
+  - first:
+      213: -594099183843598638
+    second: Mini map UI icons_1
+  - first:
+      213: -8886028606371006583
+    second: Mini map UI icons_2
+  - first:
+      213: 6276790762798000943
+    second: Mini map UI icons_3
+  - first:
+      213: 580529498655008401
+    second: Mini map UI icons_4
+  - first:
+      213: 1353241423195007528
+    second: Mini map UI icons_5
+  - first:
+      213: -298801395185185235
+    second: Mini map UI icons_6
+  - first:
+      213: 7560753086477620107
+    second: Mini map UI icons_7
+  - first:
+      213: -5538644786698655941
+    second: Mini map UI icons_8
+  - first:
+      213: -8194722795086242749
+    second: Mini map UI icons_9
+  - first:
+      213: 2512770507031142459
+    second: Mini map UI icons_10
+  - first:
+      213: -5007813066271389170
+    second: Mini map UI icons_11
+  - first:
+      213: 3421654084398392262
+    second: Mini map UI icons_12
+  - first:
+      213: -3791651132028421886
+    second: Mini map UI icons_13
+  - first:
+      213: -4145750813757655126
+    second: Mini map UI icons_14
+  - first:
+      213: -5743500067054180463
+    second: Mini map UI icons_15
+  - first:
+      213: -1453387456590995634
+    second: Mini map UI icons_16
+  - first:
+      213: 3319138421505970060
+    second: Mini map UI icons_17
+  - first:
+      213: -945450965714594836
+    second: Mini map UI icons_18
+  - first:
+      213: -1275741259304144151
+    second: Mini map UI icons_19
+  - first:
+      213: 6147719586457308829
+    second: Mini map UI icons_20
+  - first:
+      213: 8187563876463926580
+    second: Mini map UI icons_21
+  - first:
+      213: 2642927229320788107
+    second: Mini map UI icons_22
+  - first:
+      213: 6983507123109755556
+    second: Mini map UI icons_23
+  - first:
+      213: 741801721153693293
+    second: Mini map UI icons_24
+  - first:
+      213: -8962113209421927446
+    second: Mini map UI icons_25
+  - first:
+      213: -7053977835747123496
+    second: Mini map UI icons_26
+  - first:
+      213: 8712553463429536962
+    second: Mini map UI icons_27
+  - first:
+      213: 3767812117694981324
+    second: Mini map UI icons_28
+  - first:
+      213: -8686434858450632795
+    second: Mini map UI icons_29
+  - first:
+      213: -1442632172692010179
+    second: Mini map UI icons_30
+  - first:
+      213: 8796295718683259878
+    second: Mini map UI icons_31
+  - first:
+      213: 6893449527971927914
+    second: Mini map UI icons_32
+  - first:
+      213: 8503706178011176146
+    second: Mini map UI icons_33
+  - first:
+      213: 3352787986563908253
+    second: Mini map UI icons_34
+  - first:
+      213: -6450152868564808259
+    second: Mini map UI icons_35
+  - first:
+      213: -4216919836015417747
+    second: Mini map UI icons_36
+  - first:
+      213: 3033747378314055494
+    second: Mini map UI icons_37
+  - first:
+      213: 7616075074273268896
+    second: Mini map UI icons_38
+  - first:
+      213: -5409414646755493453
+    second: Mini map UI icons_39
+  - first:
+      213: -2700671485903312728
+    second: Mini map UI icons_40
+  - first:
+      213: 2956251623972005762
+    second: Mini map UI icons_41
+  - first:
+      213: 2733770449416087682
+    second: Mini map UI icons_42
+  - first:
+      213: -6608479000996460567
+    second: Mini map UI icons_43
+  - first:
+      213: 5484783363706011871
+    second: Mini map UI icons_44
+  - first:
+      213: 6060234687300654633
+    second: Mini map UI icons_45
+  - first:
+      213: -1269672975691785883
+    second: Mini map UI icons_46
+  - first:
+      213: -5212773005059616912
+    second: Mini map UI icons_47
+  - first:
+      213: -6522113687131964885
+    second: Mini map UI icons_48
+  - first:
+      213: 2870458810730001855
+    second: Mini map UI icons_49
+  - first:
+      213: 5237740273478149566
+    second: Mini map UI icons_50
+  - first:
+      213: 3768348773919319726
+    second: Mini map UI icons_51
+  - first:
+      213: 6222823836122206671
+    second: Mini map UI icons_52
+  - first:
+      213: -4448079705717472624
+    second: Mini map UI icons_53
+  - first:
+      213: -3340503340956603551
+    second: Mini map UI icons_54
+  - first:
+      213: -5507398420344588888
+    second: Mini map UI icons_55
+  - first:
+      213: 6254153691084160076
+    second: Mini map UI icons_56
+  - first:
+      213: 4928596016941375829
+    second: Mini map UI icons_57
+  - first:
+      213: 7358701162782235686
+    second: Mini map UI icons_58
+  - first:
+      213: -1556830912342388009
+    second: Mini map UI icons_59
+  - first:
+      213: -3814652021148067189
+    second: Mini map UI icons_60
+  - first:
+      213: 6698407245362365455
+    second: Mini map UI icons_61
+  - first:
+      213: -3783481230352842297
+    second: Mini map UI icons_62
+  - first:
+      213: 2336729075174906503
+    second: Mini map UI icons_63
+  - first:
+      213: -2025240751628669350
+    second: Mini map UI icons_64
+  - first:
+      213: 8558841562981270360
+    second: Mini map UI icons_65
+  - first:
+      213: -7314425179975501031
+    second: Mini map UI icons_66
+  - first:
+      213: -2740461673523798853
+    second: Mini map UI icons_67
+  - first:
+      213: -1189910083371093013
+    second: Mini map UI icons_68
+  - first:
+      213: 5889821644758496178
+    second: Mini map UI icons_69
+  - first:
+      213: -7109357974722778474
+    second: Mini map UI icons_70
+  - first:
+      213: 2949684655617450577
+    second: Mini map UI icons_71
+  - first:
+      213: 8289599731320279582
+    second: Mini map UI icons_72
+  - first:
+      213: -3446458581148907295
+    second: Mini map UI icons_73
+  - first:
+      213: -7511408211314179005
+    second: Mini map UI icons_74
+  - first:
+      213: 3943121216495571131
+    second: Mini map UI icons_75
+  - first:
+      213: 6146907293872409749
+    second: Mini map UI icons_76
+  - first:
+      213: -7084914518658166332
+    second: Mini map UI icons_77
+  - first:
+      213: 1443504122603107291
+    second: Mini map UI icons_78
+  - first:
+      213: -7784608162210903008
+    second: Mini map UI icons_79
+  - first:
+      213: 8914489203680692166
+    second: Mini map UI icons_80
+  - first:
+      213: -8424029736545370982
+    second: Mini map UI icons_81
+  - first:
+      213: 5747694685642369842
+    second: Mini map UI icons_82
+  - first:
+      213: 7255912433566778508
+    second: Mini map UI icons_83
+  - first:
+      213: 6953783337296184953
+    second: Mini map UI icons_84
+  - first:
+      213: -3896047479938737527
+    second: Mini map UI icons_85
+  - first:
+      213: -2969335762238686749
+    second: Mini map UI icons_86
+  - first:
+      213: -109263763534861785
+    second: Mini map UI icons_87
+  - first:
+      213: 7933398532356154362
+    second: Mini map UI icons_88
+  - first:
+      213: 632679943322994816
+    second: Mini map UI icons_89
+  - first:
+      213: 7955479911753048582
+    second: Mini map UI icons_90
+  - first:
+      213: -5168523644486898088
+    second: Mini map UI icons_91
+  - first:
+      213: -8652825020599845684
+    second: Mini map UI icons_92
+  - first:
+      213: -2203082515396162231
+    second: Mini map UI icons_93
+  - first:
+      213: 7947872969030188996
+    second: Mini map UI icons_94
+  - first:
+      213: -3329855543426515891
+    second: Mini map UI icons_95
+  - first:
+      213: 7321735717940264082
+    second: Mini map UI icons_96
+  - first:
+      213: -6258842089703693557
+    second: Mini map UI icons_97
+  - first:
+      213: 2505790424901054015
+    second: Mini map UI icons_98
+  - first:
+      213: 5160609323658502972
+    second: Mini map UI icons_99
+  - first:
+      213: 350199267981228500
+    second: Mini map UI icons_100
+  - first:
+      213: 2589322842020807852
+    second: Mini map UI icons_101
+  - first:
+      213: 8891168426077673289
+    second: Mini map UI icons_102
+  - first:
+      213: 4650684924037314837
+    second: Mini map UI icons_103
+  - first:
+      213: -322565571094422859
+    second: Mini map UI icons_104
+  - first:
+      213: -1260475168011279372
+    second: Mini map UI icons_105
+  - first:
+      213: -2452553598036786271
+    second: Mini map UI icons_106
+  - first:
+      213: 2447898691258619814
+    second: Mini map UI icons_107
+  - first:
+      213: -931533597038281028
+    second: Mini map UI icons_108
+  - first:
+      213: -2244016642763894462
+    second: Mini map UI icons_109
+  - first:
+      213: -5213213113088655943
+    second: Mini map UI icons_110
+  - first:
+      213: -7952460429138099332
+    second: Mini map UI icons_111
+  - first:
+      213: -4631636080755155606
+    second: Mini map UI icons_112
+  - first:
+      213: -4603415585132201293
+    second: Mini map UI icons_113
+  - first:
+      213: -568103330663983764
+    second: Mini map UI icons_114
+  - first:
+      213: 1219568691317721735
+    second: Mini map UI icons_115
+  - first:
+      213: -9135343297005936435
+    second: Mini map UI icons_116
+  - first:
+      213: 3853851660541570489
+    second: Mini map UI icons_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini map UI icons_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3958f925be97640800000000000000
+      internalID: 5078348794933122009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de17a1a0f551c7f0800000000000000
+      internalID: -594099183843598638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987fb4d001c7ea480800000000000000
+      internalID: -8886028606371006583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 162
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b270261f3ab1750800000000000000
+      internalID: 6276790762798000943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 162
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a7f4d0847e0800800000000000000
+      internalID: 580529498655008401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 163
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ae1e497eda7c210800000000000000
+      internalID: 1353241423195007528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 163
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e8895d6b17adbf0800000000000000
+      internalID: -298801395185185235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 163
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83dfe1afd03de860800000000000000
+      internalID: 7560753086477620107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 163
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37e1c759e7c223b0800000000000000
+      internalID: -5538644786698655941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 162
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c961e090f764e80800000000000000
+      internalID: -8194722795086242749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b306ba186772fd220800000000000000
+      internalID: 2512770507031142459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a855b7c8ca08ab0800000000000000
+      internalID: -5007813066271389170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3a4d4d2482c7f20800000000000000
+      internalID: 3421654084398392262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209fc3b6269516bc0800000000000000
+      internalID: -3791651132028421886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa730ba99955776c0800000000000000
+      internalID: -4145750813757655126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197adcf8e1dfa40b0800000000000000
+      internalID: -5743500067054180463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f92e00fc784dbe0800000000000000
+      internalID: -1453387456590995634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fc63e0fc2ff0e20800000000000000
+      internalID: 3319138421505970060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3180c1b5511e2f0800000000000000
+      internalID: -945450965714594836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2fdd57518ab4ee0800000000000000
+      internalID: -1275741259304144151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ecf715466115550800000000000000
+      internalID: 6147719586457308829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd37057f110a170800000000000000
+      internalID: 8187563876463926580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 130
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b887fdeef409da420800000000000000
+      internalID: 2642927229320788107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 130
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aafd5f6ab66ae060800000000000000
+      internalID: 6983507123109755556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 130
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a3233cb86b4a00800000000000000
+      internalID: 741801721153693293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebe193f48d20a380800000000000000
+      internalID: -8962113209421927446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de50de288c3b1e90800000000000000
+      internalID: -7053977835747123496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc1152c63539e870800000000000000
+      internalID: 8712553463429536962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc42f978825f94430800000000000000
+      internalID: 3767812117694981324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 131
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afba79d485937780800000000000000
+      internalID: -8686434858450632795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b842daeadbafbe0800000000000000
+      internalID: -1442632172692010179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3b763f958b21a70800000000000000
+      internalID: 8796295718683259878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67d9d792d37aaf50800000000000000
+      internalID: 6893449527971927914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc96aed6bb330670800000000000000
+      internalID: 8503706178011176146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92c652f8ee778e20800000000000000
+      internalID: 3352787986563908253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd4a32f3247c76a0800000000000000
+      internalID: -6450152868564808259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a00850cd7a75c0800000000000000
+      internalID: -4216919836015417747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f8ea6ca290a1a20800000000000000
+      internalID: 3033747378314055494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4d3c8adebb1b960800000000000000
+      internalID: 7616075074273268896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9f7510a06ede4b0800000000000000
+      internalID: -5409414646755493453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8e4b3a799458ad0800000000000000
+      internalID: -2700671485903312728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e5896037b60920800000000000000
+      internalID: 2956251623972005762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288e7e65dbd40f520800000000000000
+      internalID: 2733770449416087682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e74aff9c57f944a0800000000000000
+      internalID: -6608479000996460567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd04bafd86ddd1c40800000000000000
+      internalID: 5484783363706011871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9265e00f6574a1450800000000000000
+      internalID: 6060234687300654633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5695af6d727316ee0800000000000000
+      internalID: -1269672975691785883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f0da2029288a7b0800000000000000
+      internalID: -5212773005059616912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a39cd382ccc75a0800000000000000
+      internalID: -6522113687131964885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5b3fb741be5d720800000000000000
+      internalID: 2870458810730001855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb52c6a270130b840800000000000000
+      internalID: 5237740273478149566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea66d3b8e3ddb4430800000000000000
+      internalID: 3768348773919319726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d5eb1f49eb5650800000000000000
+      internalID: 6222823836122206671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0920618131f3542c0800000000000000
+      internalID: -4448079705717472624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ba64ff8e524a1d0800000000000000
+      internalID: -3340503340956603551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a530dee05ac193b0800000000000000
+      internalID: -5507398420344588888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cf4c765a73bc650800000000000000
+      internalID: 6254153691084160076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551223fe6f3e56440800000000000000
+      internalID: 4928596016941375829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c93ef28bb5f1660800000000000000
+      internalID: 7358701162782235686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d21c7e9886056ae0800000000000000
+      internalID: -1556830912342388009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a5eb99232af0bc0800000000000000
+      internalID: -3814652021148067189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f040ab466e585fc50800000000000000
+      internalID: 6698407245362365455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c10672eddf5e7bc0800000000000000
+      internalID: -3783481230352842297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 66
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a902e96babd6020800000000000000
+      internalID: 2336729075174906503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e278e3446e4e3e0800000000000000
+      internalID: -2025240751628669350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853095a0e0d17c670800000000000000
+      internalID: 8558841562981270360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 67
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b33636d01fd7a90800000000000000
+      internalID: -7314425179975501031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_67
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc9a05a0ace7f9d0800000000000000
+      internalID: -2740461673523798853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b20665179c7fe0800000000000000
+      internalID: -1189910083371093013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3bc3e8499dcb150800000000000000
+      internalID: 5889821644758496178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aee87c69c765d90800000000000000
+      internalID: -7109357974722778474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152af71f0926fe820800000000000000
+      internalID: 2949684655617450577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12d48319039a0370800000000000000
+      internalID: 8289599731320279582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c5893e28bb20d0800000000000000
+      internalID: -3446458581148907295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3448aa9670e12c790800000000000000
+      internalID: -7511408211314179005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb05687dad7c8b630800000000000000
+      internalID: 3943121216495571131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cc586bd933e4550800000000000000
+      internalID: 6146907293872409749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c15f5368c35dad90800000000000000
+      internalID: -7084914518658166332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_78
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f19bf95b580410800000000000000
+      internalID: 1443504122603107291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c00dffe1487f390800000000000000
+      internalID: -7784608162210903008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7417323b0a6bb70800000000000000
+      internalID: 8914489203680692166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cb2e74695d71b80800000000000000
+      internalID: -8424029736545370982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2d1f2dd9e3cf40800000000000000
+      internalID: 5747694685642369842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8486143aed22b460800000000000000
+      internalID: 7255912433566778508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976c1904a1dc08060800000000000000
+      internalID: 6953783337296184953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_85
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a123a85757ee9c0800000000000000
+      internalID: -3896047479938737527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e936e04bdccac6d0800000000000000
+      internalID: -2969335762238686749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_87
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aaeab9f21db7ef0800000000000000
+      internalID: -109263763534861785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3a1b6aee7191e60800000000000000
+      internalID: 7933398532356154362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 35
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088084e6e0bb7c800800000000000000
+      internalID: 632679943322994816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602ebcd64da876e60800000000000000
+      internalID: 7955479911753048582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ea62d1127b548b0800000000000000
+      internalID: -5168523644486898088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccb8870d7dfae780800000000000000
+      internalID: -8652825020599845684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_93
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d00faef141d61e0800000000000000
+      internalID: -2203082515396162231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_94
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf39fe0b548c4e60800000000000000
+      internalID: 7947872969030188996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c72bc860af9c1d0800000000000000
+      internalID: -3329855543426515891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_96
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c7e1fd7d70c9560800000000000000
+      internalID: 7321735717940264082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_97
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03a2f9b7402429a0800000000000000
+      internalID: -6258842089703693557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_98
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6dcd7d1b56c220800000000000000
+      internalID: 2505790424901054015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33eb3976da2e9740800000000000000
+      internalID: 5160609323658502972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d97f98f0682cd400800000000000000
+      internalID: 350199267981228500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_101
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4847fe76f1fe320800000000000000
+      internalID: 2589322842020807852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_102
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947578a7396c36b70800000000000000
+      internalID: 8891168426077673289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_103
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519328b4c4d8a8040800000000000000
+      internalID: 4650684924037314837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_104
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba55267254068bf0800000000000000
+      internalID: -322565571094422859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_105
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ac725384e18ee0800000000000000
+      internalID: -1260475168011279372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3496c2f77c6fdd0800000000000000
+      internalID: -2452553598036786271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a71d92e3eea8f120800000000000000
+      internalID: 2447898691258619814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_108
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef03401278213f0800000000000000
+      internalID: -931533597038281028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2415ef1b0c6abd0e0800000000000000
+      internalID: -2244016642763894462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_110
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd31ff5b42f6a7b0800000000000000
+      internalID: -5213213113088655943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738fd6af5f23a190800000000000000
+      internalID: -7952460429138099332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_112
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dd4b5268f19bfb0800000000000000
+      internalID: -4631636080755155606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bab2be4ae16d10c0800000000000000
+      internalID: -4603415585132201293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c659e0cd701bd18f0800000000000000
+      internalID: -568103330663983764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_115
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a4e216347cce010800000000000000
+      internalID: 1219568691317721735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc027b82cadb83180800000000000000
+      internalID: -9135343297005936435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini map UI icons_117
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd21abaaa1ab7530800000000000000
+      internalID: 3853851660541570489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mini map UI icons_0: 5078348794933122009
+      Mini map UI icons_1: -594099183843598638
+      Mini map UI icons_10: 2512770507031142459
+      Mini map UI icons_100: 350199267981228500
+      Mini map UI icons_101: 2589322842020807852
+      Mini map UI icons_102: 8891168426077673289
+      Mini map UI icons_103: 4650684924037314837
+      Mini map UI icons_104: -322565571094422859
+      Mini map UI icons_105: -1260475168011279372
+      Mini map UI icons_106: -2452553598036786271
+      Mini map UI icons_107: 2447898691258619814
+      Mini map UI icons_108: -931533597038281028
+      Mini map UI icons_109: -2244016642763894462
+      Mini map UI icons_11: -5007813066271389170
+      Mini map UI icons_110: -5213213113088655943
+      Mini map UI icons_111: -7952460429138099332
+      Mini map UI icons_112: -4631636080755155606
+      Mini map UI icons_113: -4603415585132201293
+      Mini map UI icons_114: -568103330663983764
+      Mini map UI icons_115: 1219568691317721735
+      Mini map UI icons_116: -9135343297005936435
+      Mini map UI icons_117: 3853851660541570489
+      Mini map UI icons_12: 3421654084398392262
+      Mini map UI icons_13: -3791651132028421886
+      Mini map UI icons_14: -4145750813757655126
+      Mini map UI icons_15: -5743500067054180463
+      Mini map UI icons_16: -1453387456590995634
+      Mini map UI icons_17: 3319138421505970060
+      Mini map UI icons_18: -945450965714594836
+      Mini map UI icons_19: -1275741259304144151
+      Mini map UI icons_2: -8886028606371006583
+      Mini map UI icons_20: 6147719586457308829
+      Mini map UI icons_21: 8187563876463926580
+      Mini map UI icons_22: 2642927229320788107
+      Mini map UI icons_23: 6983507123109755556
+      Mini map UI icons_24: 741801721153693293
+      Mini map UI icons_25: -8962113209421927446
+      Mini map UI icons_26: -7053977835747123496
+      Mini map UI icons_27: 8712553463429536962
+      Mini map UI icons_28: 3767812117694981324
+      Mini map UI icons_29: -8686434858450632795
+      Mini map UI icons_3: 6276790762798000943
+      Mini map UI icons_30: -1442632172692010179
+      Mini map UI icons_31: 8796295718683259878
+      Mini map UI icons_32: 6893449527971927914
+      Mini map UI icons_33: 8503706178011176146
+      Mini map UI icons_34: 3352787986563908253
+      Mini map UI icons_35: -6450152868564808259
+      Mini map UI icons_36: -4216919836015417747
+      Mini map UI icons_37: 3033747378314055494
+      Mini map UI icons_38: 7616075074273268896
+      Mini map UI icons_39: -5409414646755493453
+      Mini map UI icons_4: 580529498655008401
+      Mini map UI icons_40: -2700671485903312728
+      Mini map UI icons_41: 2956251623972005762
+      Mini map UI icons_42: 2733770449416087682
+      Mini map UI icons_43: -6608479000996460567
+      Mini map UI icons_44: 5484783363706011871
+      Mini map UI icons_45: 6060234687300654633
+      Mini map UI icons_46: -1269672975691785883
+      Mini map UI icons_47: -5212773005059616912
+      Mini map UI icons_48: -6522113687131964885
+      Mini map UI icons_49: 2870458810730001855
+      Mini map UI icons_5: 1353241423195007528
+      Mini map UI icons_50: 5237740273478149566
+      Mini map UI icons_51: 3768348773919319726
+      Mini map UI icons_52: 6222823836122206671
+      Mini map UI icons_53: -4448079705717472624
+      Mini map UI icons_54: -3340503340956603551
+      Mini map UI icons_55: -5507398420344588888
+      Mini map UI icons_56: 6254153691084160076
+      Mini map UI icons_57: 4928596016941375829
+      Mini map UI icons_58: 7358701162782235686
+      Mini map UI icons_59: -1556830912342388009
+      Mini map UI icons_6: -298801395185185235
+      Mini map UI icons_60: -3814652021148067189
+      Mini map UI icons_61: 6698407245362365455
+      Mini map UI icons_62: -3783481230352842297
+      Mini map UI icons_63: 2336729075174906503
+      Mini map UI icons_64: -2025240751628669350
+      Mini map UI icons_65: 8558841562981270360
+      Mini map UI icons_66: -7314425179975501031
+      Mini map UI icons_67: -2740461673523798853
+      Mini map UI icons_68: -1189910083371093013
+      Mini map UI icons_69: 5889821644758496178
+      Mini map UI icons_7: 7560753086477620107
+      Mini map UI icons_70: -7109357974722778474
+      Mini map UI icons_71: 2949684655617450577
+      Mini map UI icons_72: 8289599731320279582
+      Mini map UI icons_73: -3446458581148907295
+      Mini map UI icons_74: -7511408211314179005
+      Mini map UI icons_75: 3943121216495571131
+      Mini map UI icons_76: 6146907293872409749
+      Mini map UI icons_77: -7084914518658166332
+      Mini map UI icons_78: 1443504122603107291
+      Mini map UI icons_79: -7784608162210903008
+      Mini map UI icons_8: -5538644786698655941
+      Mini map UI icons_80: 8914489203680692166
+      Mini map UI icons_81: -8424029736545370982
+      Mini map UI icons_82: 5747694685642369842
+      Mini map UI icons_83: 7255912433566778508
+      Mini map UI icons_84: 6953783337296184953
+      Mini map UI icons_85: -3896047479938737527
+      Mini map UI icons_86: -2969335762238686749
+      Mini map UI icons_87: -109263763534861785
+      Mini map UI icons_88: 7933398532356154362
+      Mini map UI icons_89: 632679943322994816
+      Mini map UI icons_9: -8194722795086242749
+      Mini map UI icons_90: 7955479911753048582
+      Mini map UI icons_91: -5168523644486898088
+      Mini map UI icons_92: -8652825020599845684
+      Mini map UI icons_93: -2203082515396162231
+      Mini map UI icons_94: 7947872969030188996
+      Mini map UI icons_95: -3329855543426515891
+      Mini map UI icons_96: 7321735717940264082
+      Mini map UI icons_97: -6258842089703693557
+      Mini map UI icons_98: 2505790424901054015
+      Mini map UI icons_99: 5160609323658502972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

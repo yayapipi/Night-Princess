@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 9c8869a485de583409b47802a315b8bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4374506511773057412
+    second: Smathphone HUD set_0
+  - first:
+      213: -5276156721351844035
+    second: Smathphone HUD set_1
+  - first:
+      213: 3396294827729085587
+    second: Smathphone HUD set_2
+  - first:
+      213: 7956929419983621581
+    second: Smathphone HUD set_3
+  - first:
+      213: -3054350969553209360
+    second: Smathphone HUD set_4
+  - first:
+      213: 1089280442819469416
+    second: Smathphone HUD set_5
+  - first:
+      213: -3699772706091168519
+    second: Smathphone HUD set_6
+  - first:
+      213: 10453402912607912
+    second: Smathphone HUD set_7
+  - first:
+      213: 6001669347546977641
+    second: Smathphone HUD set_8
+  - first:
+      213: 5192649381800801555
+    second: Smathphone HUD set_9
+  - first:
+      213: -7097676462730258892
+    second: Smathphone HUD set_10
+  - first:
+      213: 1375318011057427195
+    second: Smathphone HUD set_11
+  - first:
+      213: 7467430429287852123
+    second: Smathphone HUD set_12
+  - first:
+      213: -2869818512292637709
+    second: Smathphone HUD set_13
+  - first:
+      213: -8496017803720112322
+    second: Smathphone HUD set_14
+  - first:
+      213: -997594531746412562
+    second: Smathphone HUD set_15
+  - first:
+      213: 6026283138529285410
+    second: Smathphone HUD set_16
+  - first:
+      213: 2293091082027590304
+    second: Smathphone HUD set_17
+  - first:
+      213: 3524611327100885173
+    second: Smathphone HUD set_18
+  - first:
+      213: -7645611728323605823
+    second: Smathphone HUD set_19
+  - first:
+      213: 2852129883181191818
+    second: Smathphone HUD set_20
+  - first:
+      213: -2888628434569414115
+    second: Smathphone HUD set_21
+  - first:
+      213: 2506450342968673116
+    second: Smathphone HUD set_22
+  - first:
+      213: 7962537677946259719
+    second: Smathphone HUD set_23
+  - first:
+      213: -6321703046515269613
+    second: Smathphone HUD set_24
+  - first:
+      213: -6449136414933936622
+    second: Smathphone HUD set_25
+  - first:
+      213: 2496752495264366359
+    second: Smathphone HUD set_26
+  - first:
+      213: 2107757913539726582
+    second: Smathphone HUD set_27
+  - first:
+      213: -4988005699626631379
+    second: Smathphone HUD set_28
+  - first:
+      213: -7773073331957771506
+    second: Smathphone HUD set_29
+  - first:
+      213: -1735770743921196301
+    second: Smathphone HUD set_30
+  - first:
+      213: -1410771780289220418
+    second: Smathphone HUD set_31
+  - first:
+      213: -992050290966436236
+    second: Smathphone HUD set_32
+  - first:
+      213: 2445688570676976185
+    second: Smathphone HUD set_33
+  - first:
+      213: -8931048622872364508
+    second: Smathphone HUD set_34
+  - first:
+      213: 1853836202866165120
+    second: Smathphone HUD set_35
+  - first:
+      213: 4014937118714623695
+    second: Smathphone HUD set_36
+  - first:
+      213: 7808519667779575289
+    second: Smathphone HUD set_37
+  - first:
+      213: -5590973524551128451
+    second: Smathphone HUD set_38
+  - first:
+      213: 7432777147981313725
+    second: Smathphone HUD set_39
+  - first:
+      213: -1304445145664351553
+    second: Smathphone HUD set_40
+  - first:
+      213: -6866213547942227246
+    second: Smathphone HUD set_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Smathphone HUD set_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 328
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481cdddce7e55bc30800000000000000
+      internalID: 4374506511773057412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 328
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f988c8a6357c6b0800000000000000
+      internalID: -5276156721351844035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 322
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394e947c620122f20800000000000000
+      internalID: 3396294827729085587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 322
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd8afc5621bc6e60800000000000000
+      internalID: 7956929419983621581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f73960d9f3cc95d0800000000000000
+      internalID: -3054350969553209360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860e80f9ac6ed1f00800000000000000
+      internalID: 1089280442819469416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 290
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc00c77354c7acc0800000000000000
+      internalID: -3699772706091168519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 290
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aecc478053252000800000000000000
+      internalID: 10453402912607912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96553ef29763a4350800000000000000
+      internalID: 6001669347546977641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3157365d91fff0840800000000000000
+      internalID: 5192649381800801555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436df4cbcdcff7d90800000000000000
+      internalID: -7097676462730258892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2564eb17c161310800000000000000
+      internalID: 1375318011057427195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5825aa4964a1a760800000000000000
+      internalID: 7467430429287852123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f315fc944b5c28d0800000000000000
+      internalID: -2869818512292637709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 213
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e374ed342d4181a80800000000000000
+      internalID: -8496017803720112322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee702611f05d722f0800000000000000
+      internalID: -997594531746412562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 181
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225d6fbf598a1a350800000000000000
+      internalID: 6026283138529285410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 181
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2eed59032b2df10800000000000000
+      internalID: 2293091082027590304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 181
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b89a2be35fe9e030800000000000000
+      internalID: 3524611327100885173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 181
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca06ba24a455e590800000000000000
+      internalID: -7645611728323605823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 181
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a829a4c740dc49720800000000000000
+      internalID: 2852129883181191818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 151
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ab56d4eb789e7d0800000000000000
+      internalID: -2888628434569414115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 151
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53cdc3ae43b8c220800000000000000
+      internalID: 2506450342968673116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 145
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70986aca4dd908e60800000000000000
+      internalID: 7962537677946259719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 145
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e3f0b29cc448a0800000000000000
+      internalID: -6321703046515269613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21693df79901086a0800000000000000
+      internalID: -6449136414933936622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 113
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f7d448a2f36a220800000000000000
+      internalID: 2496752495264366359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 113
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fccd0da7a2404d10800000000000000
+      internalID: 2107757913539726582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 113
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f71286e3b07cab0800000000000000
+      internalID: -4988005699626631379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 83
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e035893fcfe702490800000000000000
+      internalID: -7773073331957771506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2cf0574bd49e7e0800000000000000
+      internalID: -1735770743921196301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 81
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb037b85a8eeb6ce0800000000000000
+      internalID: -1410771780289220418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766f9734878b32f0800000000000000
+      internalID: -992050290966436236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a1f661cc4d0f120800000000000000
+      internalID: 2445688570676976185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a73f1a89a8e0480800000000000000
+      internalID: -8931048622872364508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085c89754362ab910800000000000000
+      internalID: 1853836202866165120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f384990ce7b730800000000000000
+      internalID: 4014937118714623695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd17ab344f6d5c60800000000000000
+      internalID: 7808519667779575289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a2480a33fd862b0800000000000000
+      internalID: -5590973524551128451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db631108f67862760800000000000000
+      internalID: 7432777147981313725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb291bf1d0ea5ede0800000000000000
+      internalID: -1304445145664351553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smathphone HUD set_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2ddea282f46b0a0800000000000000
+      internalID: -6866213547942227246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Smathphone HUD set_0: 4374506511773057412
+      Smathphone HUD set_1: -5276156721351844035
+      Smathphone HUD set_10: -7097676462730258892
+      Smathphone HUD set_11: 1375318011057427195
+      Smathphone HUD set_12: 7467430429287852123
+      Smathphone HUD set_13: -2869818512292637709
+      Smathphone HUD set_14: -8496017803720112322
+      Smathphone HUD set_15: -997594531746412562
+      Smathphone HUD set_16: 6026283138529285410
+      Smathphone HUD set_17: 2293091082027590304
+      Smathphone HUD set_18: 3524611327100885173
+      Smathphone HUD set_19: -7645611728323605823
+      Smathphone HUD set_2: 3396294827729085587
+      Smathphone HUD set_20: 2852129883181191818
+      Smathphone HUD set_21: -2888628434569414115
+      Smathphone HUD set_22: 2506450342968673116
+      Smathphone HUD set_23: 7962537677946259719
+      Smathphone HUD set_24: -6321703046515269613
+      Smathphone HUD set_25: -6449136414933936622
+      Smathphone HUD set_26: 2496752495264366359
+      Smathphone HUD set_27: 2107757913539726582
+      Smathphone HUD set_28: -4988005699626631379
+      Smathphone HUD set_29: -7773073331957771506
+      Smathphone HUD set_3: 7956929419983621581
+      Smathphone HUD set_30: -1735770743921196301
+      Smathphone HUD set_31: -1410771780289220418
+      Smathphone HUD set_32: -992050290966436236
+      Smathphone HUD set_33: 2445688570676976185
+      Smathphone HUD set_34: -8931048622872364508
+      Smathphone HUD set_35: 1853836202866165120
+      Smathphone HUD set_36: 4014937118714623695
+      Smathphone HUD set_37: 7808519667779575289
+      Smathphone HUD set_38: -5590973524551128451
+      Smathphone HUD set_39: 7432777147981313725
+      Smathphone HUD set_4: -3054350969553209360
+      Smathphone HUD set_40: -1304445145664351553
+      Smathphone HUD set_41: -6866213547942227246
+      Smathphone HUD set_5: 1089280442819469416
+      Smathphone HUD set_6: -3699772706091168519
+      Smathphone HUD set_7: 10453402912607912
+      Smathphone HUD set_8: 6001669347546977641
+      Smathphone HUD set_9: 5192649381800801555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

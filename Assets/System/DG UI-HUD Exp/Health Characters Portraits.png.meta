@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 28948371fe4c0564abb909135824d584
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4988864997243317851
+    second: Health Characters Portraits_0
+  - first:
+      213: 4298047331322076385
+    second: Health Characters Portraits_1
+  - first:
+      213: -3506181771106145423
+    second: Health Characters Portraits_2
+  - first:
+      213: -1050716737656977787
+    second: Health Characters Portraits_3
+  - first:
+      213: -6946604664230948421
+    second: Health Characters Portraits_4
+  - first:
+      213: 3434054839094034709
+    second: Health Characters Portraits_5
+  - first:
+      213: 7478803920581759735
+    second: Health Characters Portraits_6
+  - first:
+      213: 7784199872008062092
+    second: Health Characters Portraits_7
+  - first:
+      213: 9157155623433124276
+    second: Health Characters Portraits_8
+  - first:
+      213: 7658885690429065709
+    second: Health Characters Portraits_9
+  - first:
+      213: -3999412144527738823
+    second: Health Characters Portraits_10
+  - first:
+      213: 2837809697075726714
+    second: Health Characters Portraits_11
+  - first:
+      213: -7850834714001087163
+    second: Health Characters Portraits_12
+  - first:
+      213: 3773535324507145361
+    second: Health Characters Portraits_13
+  - first:
+      213: -1312498770137804018
+    second: Health Characters Portraits_14
+  - first:
+      213: 3917197730584777099
+    second: Health Characters Portraits_15
+  - first:
+      213: 6716555217539514372
+    second: Health Characters Portraits_16
+  - first:
+      213: -256030574051712553
+    second: Health Characters Portraits_17
+  - first:
+      213: -7124874735878478089
+    second: Health Characters Portraits_18
+  - first:
+      213: 4536737459209439761
+    second: Health Characters Portraits_19
+  - first:
+      213: -2646153132780723469
+    second: Health Characters Portraits_20
+  - first:
+      213: -5626252337880954603
+    second: Health Characters Portraits_21
+  - first:
+      213: 5357401453300156149
+    second: Health Characters Portraits_22
+  - first:
+      213: 296627621434169985
+    second: Health Characters Portraits_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health Characters Portraits_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a19ee697bdf3cab0800000000000000
+      internalID: -4988864997243317851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec944b964bb5ab30800000000000000
+      internalID: 4298047331322076385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba447714a875fc0800000000000000
+      internalID: -3506181771106145423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586066ca1ba1b61f0800000000000000
+      internalID: -1050716737656977787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb15171dcd3b89f90800000000000000
+      internalID: -6946604664230948421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51149678ea638af20800000000000000
+      internalID: 3434054839094034709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f213179a8c0ac760800000000000000
+      internalID: 7478803920581759735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c848ea78a88070c60800000000000000
+      internalID: 7784199872008062092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9b3b7d580c41f70800000000000000
+      internalID: 9157155623433124276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c859f4f3d94a60800000000000000
+      internalID: 7658885690429065709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9387a0728db3f78c0800000000000000
+      internalID: -3999412144527738823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a798b5652ece16720800000000000000
+      internalID: 2837809697075726714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545e8a15c6b3c0390800000000000000
+      internalID: -7850834714001087163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19403a4726a4e5430800000000000000
+      internalID: 3773535324507145361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039ccd825119cde0800000000000000
+      internalID: -1312498770137804018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d87ee49eac5630800000000000000
+      internalID: 3917197730584777099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4004dbf626ff53d50800000000000000
+      internalID: 6716555217539514372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d12206ac85627cf0800000000000000
+      internalID: -256030574051712553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6eeca4d2c5f1d90800000000000000
+      internalID: -7124874735878478089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a0367beaab5fe30800000000000000
+      internalID: 4536737459209439761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f26153eeb9f64bd0800000000000000
+      internalID: -2646153132780723469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51905efce498be1b0800000000000000
+      internalID: -5626252337880954603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f60e1fac30595a40800000000000000
+      internalID: 5357401453300156149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Characters Portraits_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a17260045dd1400800000000000000
+      internalID: 296627621434169985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Health Characters Portraits_0: -4988864997243317851
+      Health Characters Portraits_1: 4298047331322076385
+      Health Characters Portraits_10: -3999412144527738823
+      Health Characters Portraits_11: 2837809697075726714
+      Health Characters Portraits_12: -7850834714001087163
+      Health Characters Portraits_13: 3773535324507145361
+      Health Characters Portraits_14: -1312498770137804018
+      Health Characters Portraits_15: 3917197730584777099
+      Health Characters Portraits_16: 6716555217539514372
+      Health Characters Portraits_17: -256030574051712553
+      Health Characters Portraits_18: -7124874735878478089
+      Health Characters Portraits_19: 4536737459209439761
+      Health Characters Portraits_2: -3506181771106145423
+      Health Characters Portraits_20: -2646153132780723469
+      Health Characters Portraits_21: -5626252337880954603
+      Health Characters Portraits_22: 5357401453300156149
+      Health Characters Portraits_23: 296627621434169985
+      Health Characters Portraits_3: -1050716737656977787
+      Health Characters Portraits_4: -6946604664230948421
+      Health Characters Portraits_5: 3434054839094034709
+      Health Characters Portraits_6: 7478803920581759735
+      Health Characters Portraits_7: 7784199872008062092
+      Health Characters Portraits_8: 9157155623433124276
+      Health Characters Portraits_9: 7658885690429065709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

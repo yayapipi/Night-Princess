@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cd6f3c05c90ce04bbfc81d845a0dff7
+timeCreated: 1493359487
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89411
+  packageName: Loading Icons
+  packageVersion: 1.0
+  assetPath: Assets/Loading Icons/Animations/L02.controller
+  uploadId: 179058

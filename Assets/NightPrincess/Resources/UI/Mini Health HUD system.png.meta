@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 7ea9a60bf58d3a74c8cd007ba4b55a97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6038635315734442842
+    second: Mini Health HUD system_0
+  - first:
+      213: -4379332710323958245
+    second: Mini Health HUD system_1
+  - first:
+      213: -2994341306317005706
+    second: Mini Health HUD system_2
+  - first:
+      213: 3194629662587511937
+    second: Mini Health HUD system_3
+  - first:
+      213: 8295328128595106853
+    second: Mini Health HUD system_4
+  - first:
+      213: 3842069660500397489
+    second: Mini Health HUD system_5
+  - first:
+      213: 6794711848133894260
+    second: Mini Health HUD system_6
+  - first:
+      213: 704582803819076858
+    second: Mini Health HUD system_7
+  - first:
+      213: -1500912702274566063
+    second: Mini Health HUD system_8
+  - first:
+      213: 790076165455030830
+    second: Mini Health HUD system_9
+  - first:
+      213: 3706376777483096348
+    second: Mini Health HUD system_10
+  - first:
+      213: 7906321147636320089
+    second: Mini Health HUD system_11
+  - first:
+      213: 3224655067128450326
+    second: Mini Health HUD system_12
+  - first:
+      213: -8861529160148404019
+    second: Mini Health HUD system_13
+  - first:
+      213: -5240104834689160450
+    second: Mini Health HUD system_14
+  - first:
+      213: 9036111131186954315
+    second: Mini Health HUD system_15
+  - first:
+      213: -5500487011024453763
+    second: Mini Health HUD system_16
+  - first:
+      213: 5485197229031489875
+    second: Mini Health HUD system_17
+  - first:
+      213: -6187600409487785256
+    second: Mini Health HUD system_18
+  - first:
+      213: 1467629916152748051
+    second: Mini Health HUD system_19
+  - first:
+      213: 1802119460039479066
+    second: Mini Health HUD system_20
+  - first:
+      213: 1741903354705356533
+    second: Mini Health HUD system_21
+  - first:
+      213: 7300611081662038462
+    second: Mini Health HUD system_22
+  - first:
+      213: -5006505644392701687
+    second: Mini Health HUD system_23
+  - first:
+      213: 4822980451310540917
+    second: Mini Health HUD system_24
+  - first:
+      213: 376340389748620195
+    second: Mini Health HUD system_25
+  - first:
+      213: -7251776549446150569
+    second: Mini Health HUD system_26
+  - first:
+      213: 3070174532905483627
+    second: Mini Health HUD system_27
+  - first:
+      213: -2151596958791177518
+    second: Mini Health HUD system_28
+  - first:
+      213: -1903049442354042994
+    second: Mini Health HUD system_29
+  - first:
+      213: -6513526197920178763
+    second: Mini Health HUD system_30
+  - first:
+      213: -4740006940001393702
+    second: Mini Health HUD system_31
+  - first:
+      213: 2107765914126404750
+    second: Mini Health HUD system_32
+  - first:
+      213: 2899283452668643746
+    second: Mini Health HUD system_33
+  - first:
+      213: 8034157699507784255
+    second: Mini Health HUD system_34
+  - first:
+      213: -2387932388838656135
+    second: Mini Health HUD system_35
+  - first:
+      213: 7663092052371027231
+    second: Mini Health HUD system_36
+  - first:
+      213: -6297295742415650050
+    second: Mini Health HUD system_37
+  - first:
+      213: -198632187547686800
+    second: Mini Health HUD system_38
+  - first:
+      213: -2159597435434281565
+    second: Mini Health HUD system_39
+  - first:
+      213: -400888039024428904
+    second: Mini Health HUD system_40
+  - first:
+      213: 3633570421950368932
+    second: Mini Health HUD system_41
+  - first:
+      213: -6410192638604893166
+    second: Mini Health HUD system_42
+  - first:
+      213: -934009314471294695
+    second: Mini Health HUD system_43
+  - first:
+      213: -3060604772987540110
+    second: Mini Health HUD system_44
+  - first:
+      213: 6157367547785354275
+    second: Mini Health HUD system_45
+  - first:
+      213: 8296724042595483056
+    second: Mini Health HUD system_46
+  - first:
+      213: 8870549568278712653
+    second: Mini Health HUD system_47
+  - first:
+      213: -1775699547808059247
+    second: Mini Health HUD system_48
+  - first:
+      213: 4544036569494361432
+    second: Mini Health HUD system_49
+  - first:
+      213: 8366323819568609284
+    second: Mini Health HUD system_50
+  - first:
+      213: 1793065872105783398
+    second: Mini Health HUD system_51
+  - first:
+      213: 5727866092434693946
+    second: Mini Health HUD system_52
+  - first:
+      213: -1552223197520075376
+    second: Mini Health HUD system_53
+  - first:
+      213: -7995286410363475643
+    second: Mini Health HUD system_54
+  - first:
+      213: -6150056579098446870
+    second: Mini Health HUD system_55
+  - first:
+      213: -8592500303876002752
+    second: Mini Health HUD system_56
+  - first:
+      213: 3379887407020555213
+    second: Mini Health HUD system_57
+  - first:
+      213: -969826614944042796
+    second: Mini Health HUD system_58
+  - first:
+      213: 1612794431116328815
+    second: Mini Health HUD system_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini Health HUD system_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac0585ac25723ca0800000000000000
+      internalID: -6038635315734442842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e44e74a1c7933c0800000000000000
+      internalID: -4379332710323958245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 283
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c12b45276f176d0800000000000000
+      internalID: -2994341306317005706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184647390ca955c20800000000000000
+      internalID: 3194629662587511937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 292
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c97308bfcee1370800000000000000
+      internalID: 8295328128595106853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 283
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd8e640006c15530800000000000000
+      internalID: 3842069660500397489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 268
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470a82b0d6aab4e50800000000000000
+      internalID: 6794711848133894260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 268
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc1c78b35e27c900800000000000000
+      internalID: 704582803819076858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 268
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588d0679dfab2be0800000000000000
+      internalID: -1500912702274566063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 268
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2373261ae6fa00800000000000000
+      internalID: 790076165455030830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 274
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1113a9ba02bf6330800000000000000
+      internalID: 3706376777483096348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 274
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957850db135e8bd60800000000000000
+      internalID: 7906321147636320089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 250
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dca57d2b640cc20800000000000000
+      internalID: 3224655067128450326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 249
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8b692ed26850580800000000000000
+      internalID: -8861529160148404019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaab868a686747b0800000000000000
+      internalID: -5240104834689160450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 220
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b400a5dc237b66d70800000000000000
+      internalID: 9036111131186954315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 220
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fbc30d4385aa3b0800000000000000
+      internalID: -5500487011024453763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 220
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351016761d55f1c40800000000000000
+      internalID: 5485197229031489875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 234
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d24b6cf53a312aa0800000000000000
+      internalID: -6187600409487785256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 233
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318550602a11e5410800000000000000
+      internalID: 1467629916152748051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fc872d91a620910800000000000000
+      internalID: 1802119460039479066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 217
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f626424fdb7c2810800000000000000
+      internalID: 1741903354705356533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb10fb5391bf05560800000000000000
+      internalID: 7300611081662038462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 201
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9012cfb54a1558ab0800000000000000
+      internalID: -5006505644392701687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 172
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578940fca2baee240800000000000000
+      internalID: 4822980451310540917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 172
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab399d2797093500800000000000000
+      internalID: 376340389748620195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 186
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75611cb56a38c5b90800000000000000
+      internalID: -7251776549446150569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 185
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d3840a8737b9a20800000000000000
+      internalID: 3070174532905483627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 170
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dae07337fdf322e0800000000000000
+      internalID: -2151596958791177518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 169
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e876b7e6d920795e0800000000000000
+      internalID: -1903049442354042994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 153
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd54c1ee6e4b95a0800000000000000
+      internalID: -6513526197920178763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 153
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a45c3dcc183eb0800000000000000
+      internalID: -4740006940001393702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 124
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c4e257ee9404d10800000000000000
+      internalID: 2107765914126404750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 124
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a98b7b60f25c3820800000000000000
+      internalID: 2899283452668643746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 137
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a81a46cdf0f7f60800000000000000
+      internalID: 8034157699507784255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 153
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9773f97e42c5cded0800000000000000
+      internalID: -2387932388838656135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 143
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15b1beee95c85a60800000000000000
+      internalID: 7663092052371027231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 150
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef24cb303e28b98a0800000000000000
+      internalID: -6297295742415650050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 135
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e24ce3115e3df0800000000000000
+      internalID: -198632187547686800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5581313919702e0800000000000000
+      internalID: -2159597435434281565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 135
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898fe37d372cf6af0800000000000000
+      internalID: -400888039024428904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acc7ba1c090d6230800000000000000
+      internalID: 3633570421950368932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214a12202cb6a07a0800000000000000
+      internalID: -6410192638604893166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91948022a7bb903f0800000000000000
+      internalID: -934009314471294695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_44
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 127
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d663cbc2c8685d0800000000000000
+      internalID: -3060604772987540110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 119
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c934d592d537550800000000000000
+      internalID: 6157367547785354275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdb85e0f82e32370800000000000000
+      internalID: 8296724042595483056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d415fbb85d58a1b70800000000000000
+      internalID: 8870549568278712653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19034195ba27b57e0800000000000000
+      internalID: -1775699547808059247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_49
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 105
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85598134f29af0f30800000000000000
+      internalID: 4544036569494361432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 76
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408b64def272b1470800000000000000
+      internalID: 8366323819568609284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 76
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660cdbd19ef32e810800000000000000
+      internalID: 1793065872105783398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f13901dd77d7f40800000000000000
+      internalID: 5727866092434693946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 28
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095e1b3d935657ae0800000000000000
+      internalID: -1552223197520075376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_54
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549e6c0ee590b0190800000000000000
+      internalID: -7995286410363475643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 51
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3784e202c96aaa0800000000000000
+      internalID: -6150056579098446870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 42
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce807af7e41c880800000000000000
+      internalID: -8592500303876002752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_57
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 41
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb64470b5c7ee20800000000000000
+      internalID: 3379887407020555213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_58
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d07a8205db7a82f0800000000000000
+      internalID: -969826614944042796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Health HUD system_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 17
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fba6a7dfbc16610800000000000000
+      internalID: 1612794431116328815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mini Health HUD system_0: -6038635315734442842
+      Mini Health HUD system_1: -4379332710323958245
+      Mini Health HUD system_10: 3706376777483096348
+      Mini Health HUD system_11: 7906321147636320089
+      Mini Health HUD system_12: 3224655067128450326
+      Mini Health HUD system_13: -8861529160148404019
+      Mini Health HUD system_14: -5240104834689160450
+      Mini Health HUD system_15: 9036111131186954315
+      Mini Health HUD system_16: -5500487011024453763
+      Mini Health HUD system_17: 5485197229031489875
+      Mini Health HUD system_18: -6187600409487785256
+      Mini Health HUD system_19: 1467629916152748051
+      Mini Health HUD system_2: -2994341306317005706
+      Mini Health HUD system_20: 1802119460039479066
+      Mini Health HUD system_21: 1741903354705356533
+      Mini Health HUD system_22: 7300611081662038462
+      Mini Health HUD system_23: -5006505644392701687
+      Mini Health HUD system_24: 4822980451310540917
+      Mini Health HUD system_25: 376340389748620195
+      Mini Health HUD system_26: -7251776549446150569
+      Mini Health HUD system_27: 3070174532905483627
+      Mini Health HUD system_28: -2151596958791177518
+      Mini Health HUD system_29: -1903049442354042994
+      Mini Health HUD system_3: 3194629662587511937
+      Mini Health HUD system_30: -6513526197920178763
+      Mini Health HUD system_31: -4740006940001393702
+      Mini Health HUD system_32: 2107765914126404750
+      Mini Health HUD system_33: 2899283452668643746
+      Mini Health HUD system_34: 8034157699507784255
+      Mini Health HUD system_35: -2387932388838656135
+      Mini Health HUD system_36: 7663092052371027231
+      Mini Health HUD system_37: -6297295742415650050
+      Mini Health HUD system_38: -198632187547686800
+      Mini Health HUD system_39: -2159597435434281565
+      Mini Health HUD system_4: 8295328128595106853
+      Mini Health HUD system_40: -400888039024428904
+      Mini Health HUD system_41: 3633570421950368932
+      Mini Health HUD system_42: -6410192638604893166
+      Mini Health HUD system_43: -934009314471294695
+      Mini Health HUD system_44: -3060604772987540110
+      Mini Health HUD system_45: 6157367547785354275
+      Mini Health HUD system_46: 8296724042595483056
+      Mini Health HUD system_47: 8870549568278712653
+      Mini Health HUD system_48: -1775699547808059247
+      Mini Health HUD system_49: 4544036569494361432
+      Mini Health HUD system_5: 3842069660500397489
+      Mini Health HUD system_50: 8366323819568609284
+      Mini Health HUD system_51: 1793065872105783398
+      Mini Health HUD system_52: 5727866092434693946
+      Mini Health HUD system_53: -1552223197520075376
+      Mini Health HUD system_54: -7995286410363475643
+      Mini Health HUD system_55: -6150056579098446870
+      Mini Health HUD system_56: -8592500303876002752
+      Mini Health HUD system_57: 3379887407020555213
+      Mini Health HUD system_58: -969826614944042796
+      Mini Health HUD system_59: 1612794431116328815
+      Mini Health HUD system_6: 6794711848133894260
+      Mini Health HUD system_7: 704582803819076858
+      Mini Health HUD system_8: -1500912702274566063
+      Mini Health HUD system_9: 790076165455030830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

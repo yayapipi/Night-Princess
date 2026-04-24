@@ -16,6 +16,8 @@ namespace NightPrincess.Enemy
         [SerializeField] private bool drawInGame = true;
         [SerializeField] private Color arcColor = new Color(1f, 0.3f, 0.3f, 0.35f);
         [SerializeField] private Material lineMaterialOverride;
+        [SerializeField] private string sortingLayerName = "Default";
+        [SerializeField] private int sortingOrder = 50;
 
         [Header("Gizmo")]
         [SerializeField] private Color gizmoColor = new Color(1f, 0.2f, 0.2f, 0.8f);
@@ -70,6 +72,8 @@ namespace NightPrincess.Enemy
                 : new Material(Shader.Find("Sprites/Default"));
             runtimeLine.startColor = arcColor;
             runtimeLine.endColor = arcColor;
+            if (!string.IsNullOrEmpty(sortingLayerName)) runtimeLine.sortingLayerName = sortingLayerName;
+            runtimeLine.sortingOrder = sortingOrder;
 
             var pts = new List<Vector3>();
             pts.Add(Vector3.zero);

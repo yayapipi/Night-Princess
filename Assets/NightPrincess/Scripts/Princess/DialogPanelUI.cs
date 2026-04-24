@@ -48,6 +48,11 @@ namespace NightPrincess.Princess
             if (sendBtn != null) sendBtn.onClick.AddListener(OnSend);
             if (exitBtn != null) exitBtn.onClick.AddListener(Close);
             if (buildItemBtn != null) buildItemBtn.onClick.AddListener(OnOpenCreateItem);
+            if (playerInput != null)
+            {
+                playerInput.lineType = TMP_InputField.LineType.SingleLine;
+                playerInput.onSubmit.AddListener(OnInputSubmit);
+            }
 
             if (llm == null) llm = Object.FindFirstObjectByType<AkarionLLMClient>(FindObjectsInactive.Include);
             if (config == null) config = Resources.Load<AkarionConfig>("AkarionConfig");
@@ -101,6 +106,13 @@ namespace NightPrincess.Princess
             history.Add(new AkarionLLMClient.ChatMessage("user", msg));
             AkarionEventLogger.Instance?.LogText(AkarionEvents.PlayerMessage, "text", msg);
             SendChat();
+        }
+
+        private void OnInputSubmit(string _)
+        {
+            OnSend();
+            // Keep focus so players can keep chatting without clicking back
+            if (playerInput != null && !waiting) playerInput.ActivateInputField();
         }
 
         private void OnOpenCreateItem()

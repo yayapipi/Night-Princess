@@ -36,6 +36,8 @@ namespace NightPrincess.Player
         private Vector2 lastFacing = Vector2.right;
         private bool isDead;
         private string currentState;
+        private Vector2 lastDashPos;
+        private int dashStallFrames;
 
         public bool IsDashing => isDashing;
         public Vector2 Facing => lastFacing;
@@ -52,15 +54,15 @@ namespace NightPrincess.Player
         private void Update()
         {
             if (isDead) return;
-
-            if (isDashing)
-            {
-                UpdateDash();
-                return;
-            }
-
+            if (isDashing) return; // FixedUpdate drives dash so physics timing is correct
             HandleMovement();
             HandleMouseDash();
+        }
+
+        private void FixedUpdate()
+        {
+            if (isDead || !isDashing) return;
+            UpdateDash();
         }
 
         private void HandleMovement()
@@ -107,6 +109,8 @@ namespace NightPrincess.Player
             if (dir.sqrMagnitude > 0.01f) { lastFacing = dir; FlipTowards(dir.x); }
 
             PlayState(stateDash);
+            lastDashPos = rb.position;
+            dashStallFrames = 0; // 0 = skip stall check on first fixed tick
 
             CameraShake.Instance?.Shake(cameraShakeDuration, cameraShakeMagnitude);
 
@@ -126,7 +130,22 @@ namespace NightPrincess.Player
                 return;
             }
 
-            Vector2 step = toTarget.normalized * dashSpeed * Time.deltaTime;
+            // Stall detection (per-physics-frame): skip the first tick because rb.position hasn't updated yet.
+            if (dashStallFrames >= 0)
+            {
+                if (dashStallFrames > 0 && Vector2.Distance(pos, lastDashPos) < 0.005f)
+                {
+                    if (dashStallFrames >= 4) { EndDash(); return; }
+                    dashStallFrames++;
+                }
+                else
+                {
+                    dashStallFrames = 1;
+                }
+            }
+            lastDashPos = pos;
+
+            Vector2 step = toTarget.normalized * dashSpeed * Time.fixedDeltaTime;
             if (step.magnitude > dist) step = toTarget;
             rb.MovePosition(pos + step);
         }
@@ -147,7 +166,12 @@ namespace NightPrincess.Player
         private void TryHitEnemy(Collider2D other)
         {
             if (isDead) return;
-            if (!other.CompareTag("Enemy")) return;
+            if (!other.CompareTag("Enemy"))
+            {
+                // Any non-enemy solid collider stops the dash in front of it
+                if (isDashing && !other.isTrigger) EndDash();
+                return;
+            }
 
             var enemy = other.GetComponentInParent<NightPrincess.Enemy.EnemyController>();
             if (enemy == null || enemy.IsDead) return;

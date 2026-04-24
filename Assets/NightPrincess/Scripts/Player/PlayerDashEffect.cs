@@ -11,6 +11,8 @@ namespace NightPrincess.Player
         [SerializeField] private Gradient trailGradient;
         [SerializeField] private float startWidth = 0.45f;
         [SerializeField] private float endWidth = 0.0f;
+        [SerializeField] private string sortingLayerName = "Default";
+        [SerializeField] private int sortingOrder = 45;
 
         private LineRenderer line;
         private bool active;
@@ -30,6 +32,9 @@ namespace NightPrincess.Player
 
             if (line.sharedMaterial == null)
                 line.sharedMaterial = new Material(Shader.Find("Sprites/Default"));
+
+            if (!string.IsNullOrEmpty(sortingLayerName)) line.sortingLayerName = sortingLayerName;
+            line.sortingOrder = sortingOrder;
         }
 
         public void BeginTrail()

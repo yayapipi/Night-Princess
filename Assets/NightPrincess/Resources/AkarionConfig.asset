@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d8c5422d3556fc4a8ffb64f34bc699b, type: 3}
+  m_Name: AkarionConfig
+  m_EditorClassIdentifier: Assembly-CSharp::NightPrincess.Akarion.AkarionConfig
+  apiKey: ak_459214a0913ad70762b0f9d77cb037cad2a1c422ef316f04
+  projectId: 449f5cca-fd8e-40c6-a38e-ff3aa587d8dc
+  playerId: test_mo9xxz0z
+  displayName: Night Princess Player
+  baseUrl: https://akarion.dev/api/v1
+  chatModel: x-ai/grok-4.2
+  imageModel: google/gemini-3.1-flash-image-preview
+  princessSystemPrompt: "你扮演一位高貴、傲嬌、有點任性的夜城公主，說話方式充滿公主氣質，常用「本公主」自稱。你正在城堡中等待暗殺者救出你。請用繁體中文回覆，每次回覆控制在 60 字內，語氣可以驕傲、撒嬌或命令。"
+  itemGenerationPrompt: "以玩家相同的簡筆畫風格，將這張草圖延伸優化為一件名為「{itemName}」的精緻奇幻道具插畫。線條清晰，純白色（#FFFFFF）背景，道具主體置中。嚴格禁止：任何文字、標題、標籤、註解、箭頭、簽名、浮水印、裝飾文字、語言文字（中英日韓等）、說明文字、頁碼、名稱標註。畫面只允許出現道具本身的線條，其他區域全部保持純白，不要任何背景元素。"

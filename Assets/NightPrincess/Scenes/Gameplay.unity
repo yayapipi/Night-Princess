@@ -269,7 +269,6 @@ GameObject:
   - component: {fileID: 114332586}
   - component: {fileID: 114332592}
   - component: {fileID: 114332591}
-  - component: {fileID: 114332590}
   - component: {fileID: 114332589}
   m_Layer: 0
   m_Name: Samurai
@@ -420,34 +419,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.28, y: 0.37}
   m_EdgeRadius: 0
---- !u!114 &114332590
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 114332585}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b9b971584b89b4c45aa203c81333c94f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  moveSpeed: 5
-  dashSpeed: 80
-  dashArriveThreshold: 0.15
-  wallMask:
-    serializedVersion: 2
-    m_Bits: 0
-  trailFadeDuration: 0.3
-  trailWidth: 0.15
-  trailColor: {r: 0.4, g: 0.8, b: 1, a: 0.8}
-  shakeDuration: 0.12
-  shakeIntensity: 0.15
-  hitStopDuration: 0.05
-  deathParticlePrefab: {fileID: 4275284535197161857, guid: 31bcd70678ee3ca4eb8832211210bae8, type: 3}
-  idleAnim: Idle
-  walkAnim: Walk
-  dashAnim: Dash
 --- !u!120 &114332591
 LineRenderer:
   serializedVersion: 3
@@ -934,7 +905,6 @@ GameObject:
   - component: {fileID: 396901497}
   - component: {fileID: 396901500}
   - component: {fileID: 396901501}
-  - component: {fileID: 396901502}
   m_Layer: 0
   m_Name: Gladiators
   m_TagString: Enemy
@@ -1111,32 +1081,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &396901502
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 396901496}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a5d915abb04d794b9873f00b6c4d5ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyController
-  patrolAxis: 0
-  patrolSpeed: 2
-  patrolDistance: 3
-  detectRange: 4
-  detectArcAngle: 90
-  showArcInGame: 1
-  arcColor: {r: 1, g: 0, b: 0, a: 0.15}
-  arcSegments: 20
-  chargeSpeed: 12
-  deathParticlePrefab: {fileID: 4275284535197161857, guid: 31bcd70678ee3ca4eb8832211210bae8, type: 3}
-  idleAnim: Idle
-  walkAnim: Walk
-  chargeAnim: Attack
-  attackAnim: Attack
 --- !u!1 &412263815
 GameObject:
   m_ObjectHideFlags: 0
@@ -1544,6 +1488,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63cfade517f1b9e4c967831d2d37a85c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraShake
+  originalPos: {x: 0, y: 0, z: 0}
+  shakeDuration: 0
+  shakeIntensity: 0
 --- !u!1 &594357694
 GameObject:
   m_ObjectHideFlags: 0
@@ -1554,7 +1501,6 @@ GameObject:
   m_Component:
   - component: {fileID: 594357695}
   - component: {fileID: 594357697}
-  - component: {fileID: 594357698}
   - component: {fileID: 594357699}
   m_Layer: 5
   m_Name: DrawTargetImg
@@ -1590,22 +1536,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 594357694}
   m_CullTransparentMesh: 1
---- !u!114 &594357698
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 594357694}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de8aa037b4c263a4bbdb280cdc72742a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DrawingCanvas
-  brushColor: {r: 0, g: 0, b: 0, a: 1}
-  brushSize: 3
-  texWidth: 256
-  texHeight: 256
 --- !u!114 &594357699
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11603,7 +11533,6 @@ GameObject:
   - component: {fileID: 1014874349}
   - component: {fileID: 1014874348}
   - component: {fileID: 1014874347}
-  - component: {fileID: 1014874350}
   - component: {fileID: 1014874351}
   m_Layer: 0
   m_Name: Princess
@@ -11708,22 +11637,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1014874350
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1014874346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 782198f842402304a93a577aae002be3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PrincessNPC
-  interactRange: 2
-  interactKey: 101
-  dialoguePanel: {fileID: 1081866940}
-  interactHint: {fileID: 0}
 --- !u!61 &1014874351
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11899,7 +11812,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1081866939}
-  - component: {fileID: 1081866940}
   m_Layer: 5
   m_Name: DialogPanel
   m_TagString: Untagged
@@ -11932,25 +11844,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1081866940
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1081866938}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e513a45b2833ae244bd15bf69791ce48, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DialoguePanel
-  dialogueText: {fileID: 2129619456}
-  inputField: {fileID: 303010544}
-  sendButton: {fileID: 908191193}
-  offerTreasureButton: {fileID: 1578609553}
-  leaveButton: {fileID: 488898669}
-  treasurePanel: {fileID: 1963893428}
-  typeSpeed: 0.03
 --- !u!1 &1182910081
 GameObject:
   m_ObjectHideFlags: 0
@@ -17790,14 +17683,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1963893427}
-  - component: {fileID: 1963893428}
   m_Layer: 5
   m_Name: CreateItemPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1963893427
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17826,25 +17718,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1963893428
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1963893426}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1f10734c33e0a6b45bb03f92dc3c5864, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::TreasurePanel
-  drawingCanvas: {fileID: 594357698}
-  itemNameInput: {fileID: 1391040874}
-  forgeButton: {fileID: 1328878930}
-  giveButton: {fileID: 0}
-  clearButton: {fileID: 1057629014}
-  loadingObj: {fileID: 1239679706}
-  dialoguePanel: {fileID: 1081866940}
 --- !u!21 &1995761610
 Material:
   serializedVersion: 8
@@ -18457,7 +18330,6 @@ GameObject:
   - component: {fileID: 2134590020}
   - component: {fileID: 2134590019}
   - component: {fileID: 2134590018}
-  - component: {fileID: 2134590017}
   m_Layer: 0
   m_Name: Gladiators
   m_TagString: Enemy
@@ -18465,32 +18337,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2134590017
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2134590016}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a5d915abb04d794b9873f00b6c4d5ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyController
-  patrolAxis: 1
-  patrolSpeed: 2
-  patrolDistance: 3
-  detectRange: 4
-  detectArcAngle: 90
-  showArcInGame: 1
-  arcColor: {r: 1, g: 0, b: 0, a: 0.15}
-  arcSegments: 20
-  chargeSpeed: 12
-  deathParticlePrefab: {fileID: 4275284535197161857, guid: 31bcd70678ee3ca4eb8832211210bae8, type: 3}
-  idleAnim: Idle
-  walkAnim: Walk
-  chargeAnim: Attack
-  attackAnim: Attack
 --- !u!50 &2134590018
 Rigidbody2D:
   serializedVersion: 5

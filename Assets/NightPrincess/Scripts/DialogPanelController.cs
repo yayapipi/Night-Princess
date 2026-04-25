@@ -75,6 +75,7 @@ namespace NightPrincess
                 playerInputField.text = "";
                 playerInputField.ActivateInputField();
             }
+            if (GameSession.Instance != null) GameSession.Instance.RecordDialogStart();
             if (!greeted)
             {
                 greeted = true;
@@ -110,6 +111,7 @@ namespace NightPrincess
         public void SendUserMessage(string text)
         {
             history.Add(AkarionAPI.ChatMessage.User(text));
+            if (GameSession.Instance != null) GameSession.Instance.RecordPlayerChat(text);
             BeginWaiting();
             if (api == null) api = AkarionAPI.Instance;
             api.SendChat(chatModel, history, OnChatResult);

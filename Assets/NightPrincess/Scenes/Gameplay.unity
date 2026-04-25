@@ -803,6 +803,7 @@ GameObject:
   - component: {fileID: 309184604}
   - component: {fileID: 309184603}
   - component: {fileID: 309184605}
+  - component: {fileID: 309184606}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -853,11 +854,54 @@ MonoBehaviour:
   apiKey: ak_459214a0913ad70762b0f9d77cb037cad2a1c422ef316f04
   projectId: 449f5cca-fd8e-40c6-a38e-ff3aa587d8dc
   playerId: test_mo9xxz0z
+  playerDisplayName: Knight
+  baseUrl: https://akarion.dev/api/v1
   chatEndpoint: https://akarion.dev/api/v1/ai/chat
   imageEndpoint: https://akarion.dev/api/v1/ai/image
   chatMaxTokens: 800
   chatTemperature: 0.85
   requestTimeout: 60
+  source: Unity SDK
+  logTraffic: 1
+--- !u!114 &309184606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309184602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a23310f4456b44251946fdd2b247e9f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NightPrincess.GameSession
+  api: {fileID: 309184605}
+  generateRandomPlayer: 1
+  playerIdPrefix: knight_
+  adjectivePool:
+  - Brave
+  - Cunning
+  - Silent
+  - Crimson
+  - Shadow
+  - Iron
+  - Mystic
+  - Lunar
+  - Swift
+  - Stormborn
+  nounPool:
+  - Knight
+  - Wanderer
+  - Samurai
+  - Hero
+  - Phantom
+  - Blade
+  - Ronin
+  - Sentinel
+  - Warden
+  - Nightingale
+  killStatsTable: kill_stats
+  ensureTableOnStart: 1
 --- !u!1 &356746077
 GameObject:
   m_ObjectHideFlags: 0

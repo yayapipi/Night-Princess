@@ -13,8 +13,10 @@ namespace NightPrincess
         public string apiKey = "ak_459214a0913ad70762b0f9d77cb037cad2a1c422ef316f04";
         public string projectId = "449f5cca-fd8e-40c6-a38e-ff3aa587d8dc";
         public string playerId = "test_mo9xxz0z";
+        public string playerDisplayName = "Knight";
 
         [Header("Endpoints")]
+        public string baseUrl = "https://akarion.dev/api/v1";
         public string chatEndpoint = "https://akarion.dev/api/v1/ai/chat";
         public string imageEndpoint = "https://akarion.dev/api/v1/ai/image";
 
@@ -22,9 +24,14 @@ namespace NightPrincess
         public int chatMaxTokens = 800;
         public float chatTemperature = 0.85f;
         public float requestTimeout = 60f;
+        public string source = "Unity SDK";
+
+        [Header("Debug")]
+        public bool logTraffic = true;
 
         public delegate void ChatResultHandler(bool ok, string text);
         public delegate void ImageResultHandler(bool ok, Texture2D texture, string info);
+        public delegate void RawResultHandler(bool ok, string body);
 
         private static AkarionAPI _instance;
         public static AkarionAPI Instance
@@ -72,7 +79,7 @@ namespace NightPrincess
         IEnumerator RunChat(string model, List<ChatMessage> messages, ChatResultHandler cb)
         {
             string body = BuildChatBody(model, messages, false);
-            using (UnityWebRequest req = BuildPost(chatEndpoint, body))
+            using (UnityWebRequest req = BuildJsonPost(chatEndpoint, body))
             {
                 req.timeout = (int)requestTimeout;
                 yield return req.SendWebRequest();
@@ -121,7 +128,7 @@ namespace NightPrincess
             }
 
             string url = (dataUri == null) ? imageEndpoint : chatEndpoint;
-            using (UnityWebRequest req = BuildPost(url, body))
+            using (UnityWebRequest req = BuildJsonPost(url, body))
             {
                 req.timeout = (int)requestTimeout;
                 yield return req.SendWebRequest();
@@ -169,7 +176,99 @@ namespace NightPrincess
             }
         }
 
-        UnityWebRequest BuildPost(string url, string body)
+        public void RegisterPlayer(string pid, string displayName, RawResultHandler cb)
+        {
+            StartCoroutine(RunRegister(pid, displayName, cb));
+        }
+
+        IEnumerator RunRegister(string pid, string displayName, RawResultHandler cb)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("{");
+            sb.Append("\"project_id\":\"").Append(JsonEscape(projectId)).Append("\",");
+            sb.Append("\"player_id\":\"").Append(JsonEscape(pid)).Append("\",");
+            sb.Append("\"display_name\":\"").Append(JsonEscape(displayName)).Append("\",");
+            sb.Append("\"platform\":\"unity\",");
+            sb.Append("\"os\":\"").Append(JsonEscape(Application.platform.ToString())).Append("\"");
+            sb.Append("}");
+            yield return RunRawPost(baseUrl + "/players", sb.ToString(), cb, "register_player");
+        }
+
+        public void SendEvent(string eventType, string eventDataJson)
+        {
+            StartCoroutine(RunEvent(eventType, eventDataJson, null));
+        }
+
+        public void SendEvent(string eventType, string eventDataJson, RawResultHandler cb)
+        {
+            StartCoroutine(RunEvent(eventType, eventDataJson, cb));
+        }
+
+        IEnumerator RunEvent(string eventType, string eventDataJson, RawResultHandler cb)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("{");
+            sb.Append("\"project_id\":\"").Append(JsonEscape(projectId)).Append("\",");
+            sb.Append("\"player_id\":\"").Append(JsonEscape(playerId)).Append("\",");
+            sb.Append("\"event_type\":\"").Append(JsonEscape(eventType)).Append("\",");
+            sb.Append("\"source\":\"").Append(JsonEscape(source)).Append("\",");
+            sb.Append("\"event_data\":");
+            sb.Append(string.IsNullOrEmpty(eventDataJson) ? "{}" : eventDataJson);
+            sb.Append("}");
+            yield return RunRawPost(baseUrl + "/events", sb.ToString(), cb, "event_" + eventType);
+        }
+
+        public void UploadMedia(byte[] data, string fileName, string mimeType, string folderPath, RawResultHandler cb)
+        {
+            StartCoroutine(RunUpload(data, fileName, mimeType, folderPath, cb));
+        }
+
+        IEnumerator RunUpload(byte[] data, string fileName, string mimeType, string folderPath, RawResultHandler cb)
+        {
+            List<IMultipartFormSection> form = new List<IMultipartFormSection>();
+            form.Add(new MultipartFormFileSection("file", data, fileName, mimeType));
+            if (!string.IsNullOrEmpty(folderPath))
+                form.Add(new MultipartFormDataSection("folder_path", folderPath));
+
+            UnityWebRequest req = UnityWebRequest.Post(baseUrl + "/media/upload", form);
+            req.SetRequestHeader("Authorization", "Bearer " + apiKey);
+            req.timeout = (int)requestTimeout;
+            yield return req.SendWebRequest();
+            bool ok = req.result == UnityWebRequest.Result.Success;
+            string body = req.downloadHandler != null ? req.downloadHandler.text : "";
+            if (logTraffic) Debug.Log("[Akarion] upload_media name=" + fileName + " ok=" + ok + " body=" + Truncate(body));
+            if (cb != null) cb(ok, ok ? body : (req.error + "\n" + body));
+            req.Dispose();
+        }
+
+        public void DataCreateTable(string tableName, string schemaJsonArray, RawResultHandler cb)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("{");
+            sb.Append("\"table_name\":\"").Append(JsonEscape(tableName)).Append("\",");
+            sb.Append("\"description\":\"Auto-created by NightPrincess\",");
+            sb.Append("\"schema\":").Append(schemaJsonArray);
+            sb.Append("}");
+            StartCoroutine(RunRawPost(baseUrl + "/data", sb.ToString(), cb, "data_create_" + tableName));
+        }
+
+        public void DataInsert(string table, string rowJson, RawResultHandler cb)
+        {
+            StartCoroutine(RunRawPost(baseUrl + "/data/" + table, rowJson, cb, "data_insert_" + table));
+        }
+
+        public void DataPatch(string table, string rowId, string patchJson, RawResultHandler cb)
+        {
+            StartCoroutine(RunRawSend(baseUrl + "/data/" + table + "/" + rowId, "PATCH", patchJson, cb, "data_patch_" + table));
+        }
+
+        public void DataQueryByField(string table, string field, string value, RawResultHandler cb)
+        {
+            string url = baseUrl + "/data/" + table + "?" + UnityWebRequest.EscapeURL(field) + "=" + UnityWebRequest.EscapeURL(value) + "&limit=5";
+            StartCoroutine(RunRawGet(url, cb, "data_query_" + table));
+        }
+
+        UnityWebRequest BuildJsonPost(string url, string body)
         {
             UnityWebRequest req = new UnityWebRequest(url, "POST");
             byte[] payload = Encoding.UTF8.GetBytes(body);
@@ -178,6 +277,41 @@ namespace NightPrincess
             req.SetRequestHeader("Content-Type", "application/json");
             req.SetRequestHeader("Authorization", "Bearer " + apiKey);
             return req;
+        }
+
+        IEnumerator RunRawPost(string url, string body, RawResultHandler cb, string label)
+        {
+            return RunRawSend(url, "POST", body, cb, label);
+        }
+
+        IEnumerator RunRawSend(string url, string method, string body, RawResultHandler cb, string label)
+        {
+            UnityWebRequest req = new UnityWebRequest(url, method);
+            byte[] payload = Encoding.UTF8.GetBytes(body ?? "");
+            req.uploadHandler = new UploadHandlerRaw(payload);
+            req.downloadHandler = new DownloadHandlerBuffer();
+            req.SetRequestHeader("Content-Type", "application/json");
+            req.SetRequestHeader("Authorization", "Bearer " + apiKey);
+            req.timeout = (int)requestTimeout;
+            yield return req.SendWebRequest();
+            bool ok = req.result == UnityWebRequest.Result.Success;
+            string respBody = req.downloadHandler != null ? req.downloadHandler.text : "";
+            if (logTraffic) Debug.Log("[Akarion] " + label + " ok=" + ok + " body=" + Truncate(respBody));
+            if (cb != null) cb(ok, ok ? respBody : (req.error + "\n" + respBody));
+            req.Dispose();
+        }
+
+        IEnumerator RunRawGet(string url, RawResultHandler cb, string label)
+        {
+            UnityWebRequest req = UnityWebRequest.Get(url);
+            req.SetRequestHeader("Authorization", "Bearer " + apiKey);
+            req.timeout = (int)requestTimeout;
+            yield return req.SendWebRequest();
+            bool ok = req.result == UnityWebRequest.Result.Success;
+            string respBody = req.downloadHandler != null ? req.downloadHandler.text : "";
+            if (logTraffic) Debug.Log("[Akarion] " + label + " ok=" + ok + " body=" + Truncate(respBody));
+            if (cb != null) cb(ok, ok ? respBody : (req.error + "\n" + respBody));
+            req.Dispose();
         }
 
         string BuildChatBody(string model, List<ChatMessage> messages, bool wantImageOutput)
@@ -290,6 +424,45 @@ namespace NightPrincess
             return null;
         }
 
+        public static string ExtractFirstStringField(string json, string fieldName)
+        {
+            string pat = "\"" + fieldName + "\"";
+            int idx = json.IndexOf(pat);
+            if (idx < 0) return null;
+            int colon = json.IndexOf(':', idx);
+            if (colon < 0) return null;
+            int q = json.IndexOf('"', colon);
+            if (q < 0) return null;
+            int end = q + 1;
+            StringBuilder sb = new StringBuilder();
+            while (end < json.Length)
+            {
+                char c = json[end];
+                if (c == '\\' && end + 1 < json.Length) { sb.Append(json[end + 1]); end += 2; continue; }
+                if (c == '"') break;
+                sb.Append(c);
+                end++;
+            }
+            return sb.ToString();
+        }
+
+        public static long? ExtractFirstLongField(string json, string fieldName)
+        {
+            string pat = "\"" + fieldName + "\"";
+            int idx = json.IndexOf(pat);
+            if (idx < 0) return null;
+            int colon = json.IndexOf(':', idx);
+            if (colon < 0) return null;
+            int p = colon + 1;
+            while (p < json.Length && (json[p] == ' ' || json[p] == '\t')) p++;
+            int start = p;
+            while (p < json.Length && (char.IsDigit(json[p]) || json[p] == '-')) p++;
+            if (p == start) return null;
+            long v;
+            if (long.TryParse(json.Substring(start, p - start), out v)) return v;
+            return null;
+        }
+
         public static string JsonEscape(string s)
         {
             if (s == null) return "";
@@ -313,6 +486,13 @@ namespace NightPrincess
                 }
             }
             return sb.ToString();
+        }
+
+        static string Truncate(string s)
+        {
+            if (string.IsNullOrEmpty(s)) return s;
+            if (s.Length <= 240) return s;
+            return s.Substring(0, 240) + "...";
         }
     }
 }

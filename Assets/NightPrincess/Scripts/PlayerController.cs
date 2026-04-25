@@ -190,8 +190,10 @@ public class PlayerController : MonoBehaviour
 
         if (PlayerIsBehind(enemy))
         {
+            string enemyName = enemy.gameObject.name;
             enemy.Die();
             StopDash();
+            if (GameSession.Instance != null) GameSession.Instance.RecordEnemyKill(enemyName);
         }
         else
         {
@@ -291,6 +293,7 @@ public class PlayerController : MonoBehaviour
             Instantiate(deathEffectPrefab, transform.position, Quaternion.identity);
         if (spriteRenderer != null) spriteRenderer.enabled = false;
         if (dashLine != null) dashLine.enabled = false;
+        if (GameSession.Instance != null) GameSession.Instance.RecordPlayerDeath();
         GameManager.Instance.RestartGame();
     }
 }

@@ -45,6 +45,9 @@ namespace NightPrincess
         private bool isLoading;
         private bool craftedAtLeastOnce;
         private Texture2D currentItemTexture;
+        private string lastDrawingMediaUrl;
+        private string lastAIMediaUrl;
+        private string pendingItemName;
 
         public bool IsOpen { get { return panelRoot != null && panelRoot.activeSelf; } }
 
@@ -208,13 +211,28 @@ namespace NightPrincess
 
             string itemName = itemNameInputField != null ? itemNameInputField.text : "";
             if (string.IsNullOrWhiteSpace(itemName)) itemName = "Mystery Item";
+            pendingItemName = itemName;
+            lastDrawingMediaUrl = null;
+            lastAIMediaUrl = null;
 
             string prompt = editPromptTemplate.Replace("{itemName}", itemName);
 
             if (drawTexture != null) drawTexture.Apply();
 
+            byte[] drawingPng = drawTexture != null ? drawTexture.EncodeToPNG() : null;
+            if (drawingPng != null)
+            {
+                string fname = SanitizeFileName(itemName) + "_draw_" + System.DateTime.UtcNow.Ticks + ".png";
+                api.UploadMedia(drawingPng, fname, "image/png", "/nightprincess/drawings", OnDrawingUploaded);
+            }
+
             SetLoading(true);
             api.GenerateOrEditImage(imageModel, prompt, drawTexture, OnImageResult);
+        }
+
+        void OnDrawingUploaded(bool ok, string body)
+        {
+            if (ok) lastDrawingMediaUrl = AkarionAPI.ExtractFirstStringField(body, "url");
         }
 
         void OnImageResult(bool ok, Texture2D tex, string info)
@@ -229,6 +247,42 @@ namespace NightPrincess
             if (drawTargetImg != null) drawTargetImg.texture = tex;
             craftedAtLeastOnce = true;
             SetGiveInteractable(true);
+
+            byte[] aiPng = tex.EncodeToPNG();
+            if (aiPng != null && api != null)
+            {
+                string fname = SanitizeFileName(pendingItemName) + "_ai_" + System.DateTime.UtcNow.Ticks + ".png";
+                api.UploadMedia(aiPng, fname, "image/png", "/nightprincess/ai_items", OnAIUploaded);
+            }
+            else
+            {
+                ReportDrawingEvent();
+            }
+        }
+
+        void OnAIUploaded(bool ok, string body)
+        {
+            if (ok) lastAIMediaUrl = AkarionAPI.ExtractFirstStringField(body, "url");
+            ReportDrawingEvent();
+        }
+
+        void ReportDrawingEvent()
+        {
+            if (GameSession.Instance != null)
+                GameSession.Instance.RecordDrawingSubmitted(pendingItemName, lastDrawingMediaUrl, lastAIMediaUrl);
+        }
+
+        string SanitizeFileName(string s)
+        {
+            if (string.IsNullOrEmpty(s)) return "item";
+            System.Text.StringBuilder sb = new System.Text.StringBuilder();
+            foreach (char c in s)
+            {
+                if (char.IsLetterOrDigit(c)) sb.Append(c);
+                else if (c == ' ' || c == '-' || c == '_') sb.Append('_');
+            }
+            string r = sb.ToString();
+            return string.IsNullOrEmpty(r) ? "item" : r;
         }
 
         public void OnGiveClicked()

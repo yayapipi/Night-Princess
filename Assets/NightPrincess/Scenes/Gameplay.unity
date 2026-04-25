@@ -802,6 +802,7 @@ GameObject:
   m_Component:
   - component: {fileID: 309184604}
   - component: {fileID: 309184603}
+  - component: {fileID: 309184605}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -837,6 +838,26 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &309184605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309184602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad179fa270e7e4031a9ca3d5a8660d7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NightPrincess.AkarionAPI
+  apiKey: ak_459214a0913ad70762b0f9d77cb037cad2a1c422ef316f04
+  projectId: 449f5cca-fd8e-40c6-a38e-ff3aa587d8dc
+  playerId: test_mo9xxz0z
+  chatEndpoint: https://akarion.dev/api/v1/ai/chat
+  imageEndpoint: https://akarion.dev/api/v1/ai/image
+  chatMaxTokens: 800
+  chatTemperature: 0.85
+  requestTimeout: 60
 --- !u!1 &356746077
 GameObject:
   m_ObjectHideFlags: 0
@@ -11771,6 +11792,7 @@ GameObject:
   - component: {fileID: 1014874348}
   - component: {fileID: 1014874347}
   - component: {fileID: 1014874351}
+  - component: {fileID: 1014874352}
   m_Layer: 0
   m_Name: Princess
   m_TagString: Untagged
@@ -11920,6 +11942,26 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.39, y: 0.35}
   m_EdgeRadius: 0
+--- !u!114 &1014874352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014874346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c247d61dada534fbf99eb0a0804746b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NightPrincess.PrincessInteraction
+  player: {fileID: 114332588}
+  playerTag: Player
+  interactionDistance: 2.5
+  interactKey: 101
+  dialogPanel: {fileID: 1081866940}
+  princessRenderer: {fileID: 1014874348}
+  hintColor: {r: 1, g: 1, b: 0.6, a: 1}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1057629012
 GameObject:
   m_ObjectHideFlags: 0
@@ -12049,6 +12091,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1081866939}
+  - component: {fileID: 1081866940}
   m_Layer: 5
   m_Name: DialogPanel
   m_TagString: Untagged
@@ -12081,6 +12124,32 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1081866940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1081866938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad88848bbfb2041f0a5cc7821220a451, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NightPrincess.DialogPanelController
+  api: {fileID: 309184605}
+  chatModel: x-ai/grok-4.1-fast
+  visionModel: x-ai/grok-4.1-fast
+  panelRoot: {fileID: 1081866938}
+  dialogText: {fileID: 2129619456}
+  playerInputField: {fileID: 303010544}
+  sendBtn: {fileID: 908191193}
+  buildItemBtn: {fileID: 1578609553}
+  exitBtn: {fileID: 488898669}
+  createItemPanel: {fileID: 1963893428}
+  princessSystemPrompt: "\u4F60\u626E\u6F14\u4E00\u4F4D\u9AD8\u50B2\u3001\u5B0C\u7E31\u3001\u53C8\u4E0D\u5931\u512A\u96C5\u7684\u516C\u4E3B\u3002\u8A9E\u6C23\u5E36\u8457\u8CB4\u65CF\u53E3\u543B\uFF0C\u559C\u6B61\u7528\u300C\u672C\u5BAE\u300D\u3001\u300C\u54FC\u300D\u3001\u300C\u771F\u662F\u7684\u300D\u7B49\u8A5E\u5F59\u3002\u5C0D\u8A71\u5FC5\u9808\u975E\u5E38\u516C\u4E3B\u3001\u50B2\u5B0C\u3001\u5076\u723E\u6492\u5B0C\uFF0C\u4F46\u5E95\u5B50\u88E1\u662F\u5584\u826F\u7684\u3002\u56DE\u61C9\u52D9\u5FC5\u7CBE\u7149\u3001\u611F\u60C5\u8C50\u5BCC\uFF0C\u63A7\u5236\u5728\u4E09\u53E5\u8A71\u5167\uFF0C\u4E26\u4E14\u5728\u8A9E\u53E5\u4E2D\u6D41\u9732\u516C\u4E3B\u7368\u6709\u7684\u813E\u6C23\u8207\u5A01\u5100\u3002"
+  waitingText: "\uFF08\u516C\u4E3B\u6B63\u5728\u601D\u8003\u2026\u2026\uFF09"
+  typingSpeed: 0.04
+  firstGreeting: "\u54FC\uFF0C\u81BD\u5B50\u4E0D\u5C0F\uFF0C\u7ADF\u6562\u7AD9\u5728\u672C\u5BAE\u9762\u524D\u3002\u8AAA\u5427\uFF0C\u627E\u672C\u5BAE\u4F55\u4E8B\uFF1F"
 --- !u!21 &1125180590
 Material:
   serializedVersion: 8
@@ -22482,6 +22551,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1963893427}
+  - component: {fileID: 1963893428}
   m_Layer: 5
   m_Name: CreateItemPanel
   m_TagString: Untagged
@@ -22517,6 +22587,38 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1963893428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963893426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2c17e8a176f641ecae51d14cce4062a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NightPrincess.CreateItemPanelController
+  api: {fileID: 309184605}
+  imageModel: google/gemini-3.1-flash-image-preview
+  panelRoot: {fileID: 1963893426}
+  drawTargetImg: {fileID: 594357699}
+  itemNameInputField: {fileID: 1391040874}
+  buildBtn: {fileID: 1328878930}
+  giveBtn: {fileID: 2014440238}
+  closeBtn: {fileID: 1057629014}
+  loadingObj: {fileID: 1239679706}
+  dialogPanel: {fileID: 1081866940}
+  textureWidth: 512
+  textureHeight: 512
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  brushColor: {r: 0, g: 0, b: 0, a: 1}
+  brushRadius: 4
+  editPromptTemplate: "Refine and extend this hand-drawn sketch named '{itemName}'
+    into a clean simple-line-art icon (\u7C21\u7B46\u756B\u98A8 / sketch style).
+    Keep the user's original strokes and intent \u2014 do NOT redraw from scratch,
+    just enhance and add subtle detail. Pure white background, centered composition,
+    no shadows, no text, no watermark, output PNG."
 --- !u!21 &1995761610
 Material:
   serializedVersion: 8

@@ -71,6 +71,13 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         if (isDead) return;
+        if (UILock.Active)
+        {
+            if (isDashing) StopDash();
+            rb.linearVelocity = Vector2.zero;
+            SetAnim(idleState);
+            return;
+        }
         if (!isDashing)
         {
             UpdateMovement();
@@ -81,6 +88,7 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         if (isDead) return;
+        if (UILock.Active) return;
         if (isDashing) StepDash();
     }
 
